@@ -1,6 +1,6 @@
 ## 🛠️ Solomon Neas
 
-**Network & Systems Engineer | MS Candidate @ USF | Solutions Architect**
+**Network & Systems Engineer | MS Student @ USF | Solutions Architect | Educator**
 
 ### 👋 Welcome
 I’m a Network and Systems Engineering professional building at the intersection of infrastructure, security intelligence, and automation. I manage enterprise labs by day and architect custom software solutions by night.
