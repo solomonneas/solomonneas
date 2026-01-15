@@ -8,7 +8,7 @@ I’m a Network and Systems Engineering professional building at the intersectio
 ### 🌐 The Journey (1999–Present)
 *You might ask why an 8-year-old account is only recently seeing daily commits:*
 * 💾 **The Origin (1999):** I started in the era of broken `<frameset>` tags and the chaotic DIY glory of **Angelfire** and **Geocities**. I remember thinking **PHP** was the coolest thing ever because it finally made the web feel "alive."
-* 🔪 **The Culinary Pivot:** I spent 17 years in the culinary industry—managing high-stakes, high-pressure environments that taught me more about "systems," "workflow optimization," and "uptime" than any textbook could.
+* 🔪 **The Culinary Pivot:** I spent 17 years in the culinary industry—managing high-stakes, high-pressure environments that taught me more about "systems," "workflow optimization," and "uptime" than any textbook could. Can anyone say mise en place?
 * 🎓 **The Return & Education:** 5 years ago, I returned to my roots. I’ve spent that time stacking credentials and real-world experience:
     * 📜 **AS** in Network Systems Engineering Technology
     * 📜 **BAS** in Supervision and Management
