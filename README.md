@@ -6,7 +6,7 @@
 I’m a Network and Systems Engineering professional building at the intersection of infrastructure, security intelligence, and automation. I manage enterprise labs by day and architect custom software solutions by night.
 
 ### 🌐 The Journey (1999–Present)
-*I’m often asked why an 8-year-old account is only recently seeing daily commits:*
+*You might ask why an 8-year-old account is only recently seeing daily commits:*
 * 💾 **The Origin (1999):** I started in the era of broken `<frameset>` tags and the chaotic DIY glory of **Angelfire** and **Geocities**. I remember thinking **PHP** was the coolest thing ever because it finally made the web feel "alive."
 * 🔪 **The Culinary Pivot:** I spent 17 years in the culinary industry—managing high-stakes, high-pressure environments that taught me more about "systems," "workflow optimization," and "uptime" than any textbook could.
 * 🎓 **The Return & Education:** 5 years ago, I returned to my roots. I’ve spent that time stacking credentials and real-world experience:
