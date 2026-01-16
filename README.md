@@ -29,6 +29,6 @@ I’m a Network and Systems Engineering professional building at the intersectio
 ### 🔗 Connect With Me
 * 🌐 **Portfolio:** [solomonneas.dev](https://solomonneas.dev)
 * 💼 **LinkedIn:** [In/SolomonNeas](https://www.linkedin.com/in/solomonneas/)
-* * 📧 Email: [me@solomonneas.dev](mailto:me@solomonneas.dev)
+* 📧 Email: [me@solomonneas.dev](mailto:me@solomonneas.dev)
 
 *"I build things to solve problems, learn the internals, and rediscover the joy of creation."*
