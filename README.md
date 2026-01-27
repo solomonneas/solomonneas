@@ -15,18 +15,14 @@ I’m a Network and Systems Engineering professional building at the intersectio
     * 🤘 **MS in Cybersecurity Intelligence & Information Security** (Current @ University of South Florida)
 
 ### 🧪 What I'm Building
-
-| Project | Description | Stack |
-|---------|-------------|-------|
-| [**Watchtower**](https://github.com/solomonneas/watchtower) | Self-hosted NOC dashboard with interactive topology canvas, L2/L3 views, and real-time monitoring via LibreNMS and Proxmox integration | FastAPI, React, React Flow, WebSockets, Redis |
-| [**LAIM**](https://github.com/solomonneas/laim) | Lab Asset Inventory Manager with multi-category tracking, auto-discovery from Netdisco/LibreNMS, and role-based access | FastAPI, PostgreSQL, Tailwind |
-| [**PortGrid**](https://github.com/solomonneas/portgrid) | Network port visualization dashboard for LibreNMS with drag-to-group device organization and real-time status | Next.js 15, React 19, TanStack |
-| [**Samba-AD-Migration**](https://github.com/solomonneas/samba-ad-migration) | Automation scripts for migrating Windows AD file shares to Samba on Proxmox with full domain integration | Bash, PowerShell, Cloud-Init |
-| [**Clawdachi**](https://github.com/solomonneas/clawdachi) | Pixel art desktop companion for Claude Code that reacts to AI activity with animations and particle effects | Electron, PixiJS, TypeScript |
-| [**Portfolio**](https://github.com/solomonneas/portfolio) | Minimalist terminal-inspired personal site | Astro 5, Tailwind |
+- 🔭 **Watchtower** — Self-hosted NOC dashboard with interactive topology canvas, L2/L3 views, and real-time monitoring via LibreNMS and Proxmox integration
+- 📋 **LAIM** — Lab Asset Inventory Manager with multi-category tracking, auto-discovery from Netdisco/LibreNMS, and role-based access
+- 🔌 **PortGrid** — Network port visualization dashboard for LibreNMS with drag-to-group device organization and real-time status
+- 🐧 **Samba-AD-Migration** — Automation scripts for migrating Windows AD file shares to Samba on Proxmox with full domain integration
+- 🐱 **Clawdachi** — Pixel art desktop companion for Claude Code that reacts to AI activity with animations and particle effects
+- 💻 **Portfolio** — Minimalist terminal-inspired personal site
 
 ### 🛠️ Tech Stack
-
 - 🐍 **Languages:** Python (FastAPI, SQLAlchemy), JavaScript/TypeScript (React, Next.js, Astro, Node.js), SQL
 - 🛣️ **Infrastructure:** Cisco Networking, Dell Enterprise Systems (PowerEdge), Proxmox, VMware
 - 🐳 **Tooling:** Netdisco, LibreNMS, Docker, Linux (Debian/Ubuntu/Enterprise)
