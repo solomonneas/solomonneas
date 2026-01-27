@@ -15,12 +15,21 @@ I’m a Network and Systems Engineering professional building at the intersectio
     * 🤘 **MS in Cybersecurity Intelligence & Information Security** (Current @ University of South Florida)
 
 ### 🧪 What I'm Building
-ProjectDescriptionStackWatchtowerSelf-hosted NOC dashboard with interactive topology canvas, L2/L3 views, and real-time monitoring via LibreNMS and Proxmox integrationFastAPI, React, React Flow, WebSockets, RedisLAIMLab Asset Inventory Manager with multi-category tracking, auto-discovery from Netdisco/LibreNMS, and role-based accessFastAPI, PostgreSQL, TailwindPortGridNetwork port visualization dashboard for LibreNMS with drag-to-group device organization and real-time statusNext.js 15, React 19, TanStackSamba-AD-MigrationAutomation scripts for migrating Windows AD file shares to Samba on Proxmox with full domain integrationBash, PowerShell, Cloud-InitClawdachiPixel art desktop companion for Claude Code that reacts to AI activity with animations and particle effectsElectron, PixiJS, TypeScriptPortfolioMinimalist terminal-inspired personal siteAstro 5, Tailwind
-🛠️ Tech Stack
 
-### 🐍 Languages: Python (FastAPI, SQLAlchemy), JavaScript/TypeScript (React, Next.js, Astro, Node.js), SQL
-🛣️ Infrastructure: Cisco Networking, Dell Enterprise Systems (PowerEdge), Proxmox, VMware
-🐳 Tooling: Netdisco, LibreNMS, Docker, Linux (Debian/Ubuntu/Enterprise)
+| Project | Description | Stack |
+|---------|-------------|-------|
+| [**Watchtower**](https://github.com/solomonneas/watchtower) | Self-hosted NOC dashboard with interactive topology canvas, L2/L3 views, and real-time monitoring via LibreNMS and Proxmox integration | FastAPI, React, React Flow, WebSockets, Redis |
+| [**LAIM**](https://github.com/solomonneas/laim) | Lab Asset Inventory Manager with multi-category tracking, auto-discovery from Netdisco/LibreNMS, and role-based access | FastAPI, PostgreSQL, Tailwind |
+| [**PortGrid**](https://github.com/solomonneas/portgrid) | Network port visualization dashboard for LibreNMS with drag-to-group device organization and real-time status | Next.js 15, React 19, TanStack |
+| [**Samba-AD-Migration**](https://github.com/solomonneas/samba-ad-migration) | Automation scripts for migrating Windows AD file shares to Samba on Proxmox with full domain integration | Bash, PowerShell, Cloud-Init |
+| [**Clawdachi**](https://github.com/solomonneas/clawdachi) | Pixel art desktop companion for Claude Code that reacts to AI activity with animations and particle effects | Electron, PixiJS, TypeScript |
+| [**Portfolio**](https://github.com/solomonneas/portfolio) | Minimalist terminal-inspired personal site | Astro 5, Tailwind |
+
+### 🛠️ Tech Stack
+
+- 🐍 **Languages:** Python (FastAPI, SQLAlchemy), JavaScript/TypeScript (React, Next.js, Astro, Node.js), SQL
+- 🛣️ **Infrastructure:** Cisco Networking, Dell Enterprise Systems (PowerEdge), Proxmox, VMware
+- 🐳 **Tooling:** Netdisco, LibreNMS, Docker, Linux (Debian/Ubuntu/Enterprise)
 
 ---
 
