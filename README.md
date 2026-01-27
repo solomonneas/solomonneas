@@ -15,14 +15,12 @@ I’m a Network and Systems Engineering professional building at the intersectio
     * 🤘 **MS in Cybersecurity Intelligence & Information Security** (Current @ University of South Florida)
 
 ### 🧪 What I'm Building
-* 📋 **Lab Inventory Manager:** A full-stack **FastAPI/Astro** engine that aggregates live hardware data from **Netdisco** and **LibreNMS** for real-time asset tracking.
-* 💻 **Terminal Portfolio:** A minimalist, CLI-inspired personal site (built with **Astro/React**) designed to mimic a Linux shell environment.
-* ⚙️ **Automation Engine:** Custom Python and Bash tools for enterprise hardware lifecycle management and SNMP discovery.
+ProjectDescriptionStackWatchtowerSelf-hosted NOC dashboard with interactive topology canvas, L2/L3 views, and real-time monitoring via LibreNMS and Proxmox integrationFastAPI, React, React Flow, WebSockets, RedisLAIMLab Asset Inventory Manager with multi-category tracking, auto-discovery from Netdisco/LibreNMS, and role-based accessFastAPI, PostgreSQL, TailwindPortGridNetwork port visualization dashboard for LibreNMS with drag-to-group device organization and real-time statusNext.js 15, React 19, TanStackSamba-AD-MigrationAutomation scripts for migrating Windows AD file shares to Samba on Proxmox with full domain integrationBash, PowerShell, Cloud-InitClawdachiPixel art desktop companion for Claude Code that reacts to AI activity with animations and particle effectsElectron, PixiJS, TypeScriptPortfolioMinimalist terminal-inspired personal siteAstro 5, Tailwind
+🛠️ Tech Stack
 
-### 🛠️ Tech Stack
-* 🐍 **Languages:** Python (FastAPI, SQLAlchemy), JavaScript (Astro, Node.js), SQL.
-* 🛣️ **Infrastructure:** Cisco Networking, Dell Enterprise Systems (PowerEdge), VMware/Proxmox.
-* 🐳 **Management:** Netdisco, LibreNMS, Docker, Linux (Debian/Enterprise flavors).
+### 🐍 Languages: Python (FastAPI, SQLAlchemy), JavaScript/TypeScript (React, Next.js, Astro, Node.js), SQL
+🛣️ Infrastructure: Cisco Networking, Dell Enterprise Systems (PowerEdge), Proxmox, VMware
+🐳 Tooling: Netdisco, LibreNMS, Docker, Linux (Debian/Ubuntu/Enterprise)
 
 ---
 
