@@ -18,7 +18,7 @@ I'm a Network and Systems Engineering professional building at the intersection 
 Building automated workflows that leverage LLMs and agents to optimize:
 - **DevOps Pipelines:** Automated code review, testing, and deployment flows
 - **Security Operations:** Threat hunting, log analysis, and incident response automation
-- **Content Generation:** Technical documentation, blog posts, and social media scheduling
+- **Content Generation:** Technical documentation and social media scheduling
 - **Infrastructure Management:** Monitoring, alerting, and remediation workflows
 
 ### 🧪 What I'm Building
