@@ -27,7 +27,7 @@ Building automated workflows that leverage LLMs and agents to optimize:
 | Project | Description |
 |:--------|:------------|
 | 🛡️ [CyberBRIEF](https://github.com/solomonneas/cyberbrief) | AI-powered threat intel briefing tool with BLUF reports, ATT&CK mapping, IOC extraction, and multi-source research. [Live](https://cyberbrief.solomonneas.dev) |
-| 🔍 [Bro&nbsp;Hunter](https://github.com/solomonneas/bro-hunter) | Threat hunting platform for Zeek/Suricata logs with beaconing detection, DNS anomaly analysis, and MITRE ATT&CK mapping |
+| 🔍 [Bro&nbsp;Hunter](https://github.com/solomonneas/bro-hunter) | Threat hunting platform for Zeek/Suricata logs with beaconing detection, DNS anomaly analysis, and MITRE ATT&CK mapping. [Live](https://brohunter.solomonneas.dev) |
 | 🌐 [FortiSim](https://github.com/solomonneas/fortisim) | Network security simulator with firewall policy tables, conflict detection, traffic simulation, and NAT management |
 | 🔬 [Intel&nbsp;Workbench](https://github.com/solomonneas/intel-workbench) | Threat intelligence analysis platform with ACH matrix, cognitive bias checklists, evidence weighting, and STIX export. [Live](https://intel-workbench.solomonneas.dev) |
 | 📖 [Playbook&nbsp;Forge](https://github.com/solomonneas/playbook-forge) | SOC playbook parser and generator with Mermaid diagrams, custom node editor, and SOAR action library |
