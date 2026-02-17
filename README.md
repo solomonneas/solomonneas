@@ -29,11 +29,11 @@ Building automated workflows that leverage LLMs and agents to optimize:
 | 🛡️ [CyberBRIEF](https://github.com/solomonneas/cyberbrief) | AI-powered threat intel briefing tool with BLUF reports, ATT&CK mapping, IOC extraction, and multi-source research. [Live](https://cyberbrief.solomonneas.dev) |
 | 🔍 [Bro&nbsp;Hunter](https://github.com/solomonneas/bro-hunter) | Threat hunting platform for Zeek/Suricata logs with beaconing detection, DNS anomaly analysis, and MITRE ATT&CK mapping |
 | 🌐 [FortiSim](https://github.com/solomonneas/fortisim) | Network security simulator with firewall policy tables, conflict detection, traffic simulation, and NAT management |
-| 🔬 [Intel&nbsp;Workbench](https://github.com/solomonneas/intel-workbench) | Threat intelligence analysis platform with ACH matrix, cognitive bias checklists, evidence weighting, and STIX export |
+| 🔬 [Intel&nbsp;Workbench](https://github.com/solomonneas/intel-workbench) | Threat intelligence analysis platform with ACH matrix, cognitive bias checklists, evidence weighting, and STIX export. [Live](https://intel-workbench.solomonneas.dev) |
 | 📖 [Playbook&nbsp;Forge](https://github.com/solomonneas/playbook-forge) | SOC playbook parser and generator with Mermaid diagrams, custom node editor, and SOAR action library |
-| 🏢 [SOC&nbsp;Showcase](https://github.com/solomonneas/soc-showcase) | Unified SOC stack portfolio with 9-tool visualization, animated data flow pipelines, and architecture graphs |
+| 🏢 [SOC&nbsp;Showcase](https://github.com/solomonneas/soc-showcase) | Unified SOC stack portfolio with 9-tool visualization, animated data flow pipelines, and architecture graphs. [Live](https://soc-showcase.solomonneas.dev) |
 | 📊 [FortiLogForge](https://github.com/solomonneas/fortilogforge) | FortiGate log analyzer with drag-drop upload, traffic dashboards, time-series charts, and multi-format export |
-| 🔐 [ProxGuard](https://github.com/solomonneas/proxguard) | Proxmox security auditor with config parsers, CIS benchmark scoring, and automated remediation scripts |
+| 🔐 [ProxGuard](https://github.com/solomonneas/proxguard) | Proxmox security auditor with config parsers, CIS benchmark scoring, and automated remediation scripts. [Live](https://proxguard.solomonneas.dev) |
 | 🔭 [Watchtower](https://github.com/solomonneas/watchtower) | Self-hosted NOC dashboard with interactive topology canvas, L2/L3 views, and LibreNMS/Proxmox integration. [Demo](https://watchtower.solomonneas.dev) |
 
 #### SOC MCP Stack (Model Context Protocol)
@@ -61,9 +61,9 @@ Building automated workflows that leverage LLMs and agents to optimize:
 
 | Project | Description |
 |:--------|:------------|
-| 📈 [Usage&nbsp;Tracker](https://github.com/solomonneas/usage-tracker) | Token usage and cost analytics for AI sessions with multi-model breakdown and Ollama savings tracking |
+| 📈 [Usage&nbsp;Tracker](https://github.com/solomonneas/usage-tracker) | Token usage and cost analytics for AI sessions with multi-model breakdown and Ollama savings tracking. [Live](https://usage-tracker.solomonneas.dev) |
 | 📚 [Prompt&nbsp;Library](https://github.com/solomonneas/prompt-library) | Dual-mode prompt management with semantic search (Ollama GPU), version history, and REST API for sub-agents |
-| 🏟️ [Model&nbsp;Arena](https://github.com/solomonneas/model-arena) | LLM comparison platform with chart visualizations, 20+ models, benchmarks, and cost analysis |
+| 🏟️ [Model&nbsp;Arena](https://github.com/solomonneas/model-arena) | LLM comparison platform with chart visualizations, 20+ models, benchmarks, and cost analysis. [Live](https://model-arena.solomonneas.dev) |
 
 #### Portfolio & Creative
 | Project | Description |
