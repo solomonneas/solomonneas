@@ -44,6 +44,44 @@ Lab assistant in Polk State College's Network Systems Engineering Technology dep
 | 💻 [termfolio](https://github.com/solomonneas/termfolio) | Terminal-style portfolio with interactive shell and easter eggs. [Live](https://termfolio.solomonneas.dev) |
 | 🚀 [astro-portfolio](https://github.com/solomonneas/astro-portfolio) | Portfolio site. [solomonneas.dev](https://solomonneas.dev) |
 
+### Ops Deck Automation Pipeline
+
+My dev workflow runs through an internal Ops Deck with API-first automation. It acts as a control plane for build/review/publish operations instead of disconnected scripts.
+
+Core pipeline capabilities:
+
+- **Social content operations**
+  - Draft queue management by platform
+  - Approval and publish actions through API endpoints
+  - Calendar sync for scheduled and published posts
+
+- **Cron orchestration and visibility**
+  - Centralized cron job inventory
+  - Status, next run, and failure tracking
+  - Operational dashboards for scheduled automations
+
+- **Memory system (knowledge cards)**
+  - Slim runtime memory index
+  - Atomic knowledge cards for long-term recall
+  - Semantic retrieval to pull only task-relevant context
+
+- **Prompt library service**
+  - Categorized prompt storage and versioning
+  - Reusable prompt execution patterns for agents
+  - API access for prompt lookup in live workflows
+
+- **Semantic indexing for code and memory**
+  - Local embedding-backed code search
+  - Structured memory search across notes and cards
+  - Retrieval-first flow for faster, lower-token operations
+
+- **DevOps guardrails**
+  - Feature branch + PR workflow by default
+  - Multi-layer review flow (Codex review + AI reviewers + human merge)
+  - Repository hygiene automation (ignore rules, artifact cleanup, policy checks)
+
+This setup is built for practical throughput: faster iteration, safer merges, and fewer repetitive manual steps.
+
 ### Tech
 - **Languages:** Python (FastAPI), TypeScript (React, Next.js, Astro), SQL, Shell
 - **Infrastructure:** Cisco IOS/IOS-XE, Dell PowerEdge, Proxmox, Fortinet
