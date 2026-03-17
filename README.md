@@ -2,9 +2,17 @@
 
 **Network & Systems Engineer | Cybersecurity | AI Infrastructure**
 
-Lab assistant in Polk State College's Network Systems Engineering Technology department. I build security tools, network monitoring systems, and AI-driven automation on real infrastructure.
+Lab assistant in Polk State College's Network Systems Engineering Technology department. M.S. Cybersecurity & Information Security in progress at USF. I build security tools, network monitoring systems, and AI-driven automation on real infrastructure.
 
 ### What I'm Working On
+
+#### OpenClaw (AI Agent Infrastructure)
+| Project | Description |
+|:--------|:------------|
+| 📘 [OpenClaw Best Practices](https://github.com/solomonneas/openclaw-best-practices) | Production runbooks: security hardening, multi-model orchestration, memory optimization, sub-agent patterns, backup/recovery |
+| 🖥️ [OpenClaw Overlay](https://github.com/solomonneas/openclaw-overlay) | Always-on-top HUD overlay for session monitoring, context windows, rate limits |
+| 📊 [Usage Tracker](https://github.com/solomonneas/usage-tracker) | Token usage and cost analytics for OpenClaw sessions with multi-model breakdown |
+| 📚 [Prompt Library](https://github.com/solomonneas/prompt-library) | Dual-mode prompt management with browse/copy UI and REST API for sub-agents |
 
 #### Security & Threat Intelligence
 | Project | Description |
@@ -36,57 +44,19 @@ Lab assistant in Polk State College's Network Systems Engineering Technology dep
 | 🔌 [PortGrid](https://github.com/solomonneas/portgrid) | Switch port visualizer for LibreNMS with color-coded views and instant search |
 | 🔒 [ProxGuard](https://github.com/solomonneas/proxguard) | Proxmox firewall rule visualizer with conflict detection and rule simulation |
 | 🐧 [Samba AD Migration](https://github.com/solomonneas/samba-ad-migration) | Windows AD to Samba file share migration scripts for Proxmox |
-| 🔐 [MistPortBouncer](https://github.com/solomonneas/mistportbouncer) | Mist/Juniper NAC port bounce automation for stuck 802.1X ports |
 
 #### Tools
 | Project | Description |
 |:--------|:------------|
 | 💻 [termfolio](https://github.com/solomonneas/termfolio) | Terminal-style portfolio with interactive shell and easter eggs. [Live](https://termfolio.solomonneas.dev) |
-| 🚀 [astro-portfolio](https://github.com/solomonneas/astro-portfolio) | Portfolio site. [solomonneas.dev](https://solomonneas.dev) |
-
-### Ops Deck Automation Pipeline
-
-My dev workflow runs through an internal Ops Deck with API-first automation. It acts as a control plane for build/review/publish operations instead of disconnected scripts.
-
-Core pipeline capabilities:
-
-- **Social content operations**
-  - Draft queue management by platform
-  - Approval and publish actions through API endpoints
-  - Calendar sync for scheduled and published posts
-
-- **Cron orchestration and visibility**
-  - Centralized cron job inventory
-  - Status, next run, and failure tracking
-  - Operational dashboards for scheduled automations
-
-- **Memory system (knowledge cards)**
-  - Slim runtime memory index
-  - Atomic knowledge cards for long-term recall
-  - Semantic retrieval to pull only task-relevant context
-
-- **Prompt library service**
-  - Categorized prompt storage and versioning
-  - Reusable prompt execution patterns for agents
-  - API access for prompt lookup in live workflows
-
-- **Semantic indexing for code and memory**
-  - Local embedding-backed code search
-  - Structured memory search across notes and cards
-  - Retrieval-first flow for faster, lower-token operations
-
-- **DevOps guardrails**
-  - Feature branch + PR workflow by default
-  - Multi-layer review flow (Codex review + AI reviewers + human merge)
-  - Repository hygiene automation (ignore rules, artifact cleanup, policy checks)
-
-This setup is built for practical throughput: faster iteration, safer merges, and fewer repetitive manual steps.
+| 🖥️ [WSL Bridge](https://github.com/solomonneas/wsl-bridge) | Auto-forward WSL ports to Windows host |
+| 🎛️ [WSL DevCtl](https://github.com/solomonneas/wsl-devctl) | TUI for managing WSL dev servers: PM2, Caddy, port monitoring |
 
 ### Tech
-- **Languages:** Python (FastAPI), TypeScript (React, Next.js, Astro), SQL, Shell
-- **Infrastructure:** Cisco IOS/IOS-XE, Dell PowerEdge, Proxmox, Fortinet
+- **Languages:** Python (FastAPI), TypeScript (React, Next.js, Astro), Rust, SQL, Shell
+- **Infrastructure:** Cisco IOS/IOS-XE, Dell PowerEdge, Proxmox, Fortinet, Juniper/Mist
 - **Security:** Zeek, Suricata, Wazuh, TheHive, Cortex, MISP, MITRE ATT&CK
-- **AI:** Claude, GPT, Gemini, MCP Servers, Ollama, agent workflows
+- **AI:** Claude, GPT, Gemini, MCP Servers, Ollama, OpenClaw, agent workflows
 - **Tooling:** LibreNMS, Netdisco, Docker, Linux, Git
 
 ### Connect
