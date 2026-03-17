@@ -2,7 +2,7 @@
 
 **Network & Systems Engineer | Cybersecurity | AI Infrastructure**
 
-Lab assistant in Polk State College's Network Systems Engineering Technology department. M.S. Cybersecurity & Information Security in progress at USF. I build security tools, network monitoring systems, and AI-driven automation on real infrastructure.
+I build security tools, network monitoring systems, and AI-driven automation on real infrastructure.
 
 ### What I'm Working On
 
