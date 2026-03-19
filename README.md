@@ -45,6 +45,11 @@ I build security tools, network monitoring systems, and AI-driven automation on 
 | 🔒 [ProxGuard](https://github.com/solomonneas/proxguard) | Proxmox firewall rule visualizer with conflict detection and rule simulation |
 | 🐧 [Samba AD Migration](https://github.com/solomonneas/samba-ad-migration) | Windows AD to Samba file share migration scripts for Proxmox |
 
+#### Media Automation
+| Project | Description |
+|:--------|:------------|
+| 📺 [media-cli](https://github.com/solomonneas/media-cli) | Single-file bash CLI for the *arr stack (Sonarr/Radarr/Prowlarr/qBittorrent/Bazarr/Jellyseerr/Tdarr). SSH + local modes, AI agent friendly |
+
 #### Tools
 | Project | Description |
 |:--------|:------------|
