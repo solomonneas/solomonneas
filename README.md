@@ -6,9 +6,10 @@ I build security tools, network monitoring systems, and AI-driven automation on 
 
 ### What I'm Working On
 
-#### OpenClaw (AI Agent Infrastructure)
+#### OpenClaw & Dev Tools
 | Project | Description |
 |:--------|:------------|
+| 🔍 [Code Search API](https://github.com/solomonneas/code-search-api) | Local semantic code search with Ollama embeddings, SQLite, and hybrid search. Language-aware chunking, LLM summaries, find code by intent. |
 | 📘 [OpenClaw Best Practices](https://github.com/solomonneas/openclaw-best-practices) | Production runbooks: security hardening, multi-model orchestration, memory optimization, sub-agent patterns, backup/recovery |
 | 🖥️ [OpenClaw Overlay](https://github.com/solomonneas/openclaw-overlay) | Always-on-top HUD overlay for session monitoring, context windows, rate limits |
 | 📊 [Usage Tracker](https://github.com/solomonneas/usage-tracker) | Token usage and cost analytics for OpenClaw sessions with multi-model breakdown |
