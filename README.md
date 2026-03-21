@@ -35,8 +35,7 @@ I build security tools, network monitoring systems, and AI-driven automation on 
 | ⚔️ [MITRE ATT&CK MCP](https://github.com/solomonneas/mitre-mcp) | Map techniques, profile threat groups, analyze detection gaps |
 | 🔎 [Zeek MCP](https://github.com/solomonneas/zeek-mcp) | Network monitoring: connection logs, DNS, HTTP, SSL |
 | 🦔 [Suricata MCP](https://github.com/solomonneas/suricata-mcp) | IDS/IPS: manage rules, query alerts, analyze traffic |
-| 🔵 [Rapid7 MCP](https://github.com/solomonneas/rapid7-mcp) | InsightVM/IDR: vulnerabilities, assets, detection rules |
-| 🔴 [Sophos MCP](https://github.com/solomonneas/sophos-mcp) | Sophos Central: endpoints, alerts, EDR/MDR telemetry |
+
 
 #### Network & Infrastructure
 | Project | Description |
