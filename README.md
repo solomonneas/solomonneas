@@ -22,7 +22,6 @@ I build security tools, network monitoring systems, and AI-driven automation on 
 | 🔍 [Bro Hunter](https://github.com/solomonneas/bro-hunter) | Threat hunting platform for Zeek/Suricata logs. Beaconing detection, DNS anomaly analysis, MITRE mapping |
 | 🔬 [Intel Workbench](https://github.com/solomonneas/intel-workbench) | Threat intel analysis with ACH matrix, cognitive bias checklists, evidence weighting, STIX export |
 | 📖 [Playbook Forge](https://github.com/solomonneas/playbook-forge) | IR playbook builder with visual flowcharts, execution engine, AI generation, and SOAR integration |
-| 🏢 [SOC Showcase](https://github.com/solomonneas/soc-showcase) | S³ Stack portfolio: 9-tool visualization, animated data flow pipelines, architecture graphs |
 | 🏗️ [S³ Stack](https://github.com/solomonneas/soc-stack) | Full SOC architecture: MCP servers, detection pipelines, deployment playbooks |
 
 #### MCP Servers (Model Context Protocol)
@@ -49,13 +48,6 @@ I build security tools, network monitoring systems, and AI-driven automation on 
 | Project | Description |
 |:--------|:------------|
 | 📺 [media-cli](https://github.com/solomonneas/media-cli) | Single-file bash CLI for the *arr stack (Sonarr/Radarr/Prowlarr/qBittorrent/Bazarr/Jellyseerr/Tdarr). SSH + local modes, AI agent friendly |
-
-#### Tools
-| Project | Description |
-|:--------|:------------|
-| 💻 [termfolio](https://github.com/solomonneas/termfolio) | Terminal-style portfolio with interactive shell and easter eggs. [Live](https://termfolio.solomonneas.dev) |
-| 🖥️ [WSL Bridge](https://github.com/solomonneas/wsl-bridge) | Auto-forward WSL ports to Windows host |
-| 🎛️ [WSL DevCtl](https://github.com/solomonneas/wsl-devctl) | TUI for managing WSL dev servers: PM2, Caddy, port monitoring |
 
 ### Tech
 - **Languages:** Python (FastAPI), TypeScript (React, Next.js, Astro), Rust, SQL, Shell
