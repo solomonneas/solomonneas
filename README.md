@@ -39,7 +39,7 @@ I build security tools, network monitoring systems, and AI-driven automation on 
 #### Network & Infrastructure
 | Project | Description |
 |:--------|:------------|
-| 🔭 [Watchtower](https://github.com/solomonneas/watchtower) | NOC dashboard with interactive topology, L2/L3 views, LibreNMS/Proxmox integration. [Demo](https://watchtower.solomonneas.dev) |
+| 🔭 [Watchtower](https://github.com/solomonneas/watchtower) | NOC dashboard with interactive topology, L2/L3 views, LibreNMS/Proxmox integration |
 | 🔌 [PortGrid](https://github.com/solomonneas/portgrid) | Switch port visualizer for LibreNMS with color-coded views and instant search |
 | 🔒 [ProxGuard](https://github.com/solomonneas/proxguard) | Proxmox firewall rule visualizer with conflict detection and rule simulation |
 | 🐧 [Samba AD Migration](https://github.com/solomonneas/samba-ad-migration) | Windows AD to Samba file share migration scripts for Proxmox |
