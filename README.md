@@ -33,6 +33,7 @@ I build security tools, network monitoring systems, and AI-driven automation on 
 | ⚔️ [MITRE ATT&CK MCP](https://github.com/solomonneas/mitre-mcp) | Map techniques, profile threat groups, analyze detection gaps |
 | 🔎 [Zeek MCP](https://github.com/solomonneas/zeek-mcp) | Network monitoring: connection logs, DNS, HTTP, SSL |
 | 🦔 [Suricata MCP](https://github.com/solomonneas/suricata-mcp) | IDS/IPS: manage rules, query alerts, analyze traffic |
+| 🕸️ [Maltego MCP](https://github.com/solomonneas/maltego-mcp) | Author Maltego .mtgx graphs and run primitive OSINT lookups (whois/DNS/ASN/crt.sh) |
 
 
 #### Network & Infrastructure
