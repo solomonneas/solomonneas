@@ -47,7 +47,7 @@ I build security tools, network monitoring systems, and AI-driven automation on 
 #### Media Automation
 | Project | Description |
 |:--------|:------------|
-| 🏴‍☠️ [arr-cli](https://github.com/solomonneas/arr-cli) | Single-file bash CLI for the *arr stack (Sonarr/Radarr/Prowlarr/qBittorrent/Bazarr/Jellyseerr/Tdarr). SSH + local modes, Tdarr boost control, qBittorrent malware hardening |
+| 📺 [media-cli](https://github.com/solomonneas/media-cli) | Single-file bash CLI for the self-hosted media stack (Sonarr/Radarr/Prowlarr/qBittorrent/Bazarr/Jellyseerr/Tdarr). SSH + local modes, Tdarr boost control, qBittorrent malware hardening |
 | 🎬 [Jellyfin MCP](https://github.com/solomonneas/jellyfin-mcp) | Control Jellyfin from LLMs: playback sessions, library scans, user admin, scheduled tasks, activity log — 20 MCP tools |
 
 ### Tech
