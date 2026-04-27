@@ -1,72 +1,83 @@
-<div align="center">
+### Hi 👋, I'm Solomon
 
-# Solomon Neas
+I'm a Network & Systems Engineer / Teaching Lab Aid focused on cybersecurity, network observability, and AI infrastructure. I build SOC tooling, MCP servers, and agent workflows that run on real production gear, not toy demos. I write about it at [solomonneas.dev/blog](https://solomonneas.dev/blog).
 
-**Network & Systems Engineer | Cybersecurity | AI Infrastructure**
+- 🇺🇸 Based in Tampa, FL, near the beach.
+- 🎓 M.S. Cybersecurity Intelligence & Information Security at the University of South Florida.
+- 🛡️ Building open-source SOC + threat intel tooling on bare-metal Proxmox.
+- 🔭 Obsessing on multi-agent orchestration, MCP servers, and detection engineering.
+- 🌱 Currently exploring self-hosted AI stacks, network observability, and incident response automation.
+- ✍️ Writing regularly on [my blog](https://solomonneas.dev/blog), Dev.to, Hashnode, and X.
+- 💬 Ask me about **Proxmox migrations, network monitoring, MCP servers, OpenClaw, and open-source SOC**.
+- ⚙️ Big believer in open source, dogfooding everything, and writing it down so the next person doesn't have to figure it out.
+- 👨‍👧 Father, retired chef of 17 years, beach lover, and OSS contributor when I'm not on a screen.
+- ☕ If my work helped you, [buy me a coffee](https://www.buymeacoffee.com/solomonneas) or [tip on Ko-fi](https://ko-fi.com/solomonneas).
+- 📫 Reach me at [me@solomonneas.dev](mailto:me@solomonneas.dev) · [LinkedIn](https://www.linkedin.com/in/solomon-neas/) · [X](https://x.com/solomonneas) · [Bluesky](https://bsky.app/profile/solomonneas.dev) · [Mastodon](https://infosec.exchange/@solomonneas)
 
-I build security tooling, network visibility systems, and AI automation that runs on real infrastructure. I also write a tech blog at [solomonneas.dev/blog](https://solomonneas.dev/blog).
+Some of the projects I've built or maintain:
 
-[Website](https://solomonneas.dev) · [Blog](https://solomonneas.dev/blog) · [LinkedIn](https://www.linkedin.com/in/solomon-neas/) · [X](https://x.com/solomonneas) · [Bluesky](https://bsky.app/profile/solomonneas.dev) · [Email](mailto:me@solomonneas.dev)
+**OpenClaw & Dev Tools**
+- 🔍 [code-search-api](https://github.com/solomonneas/code-search-api) - Local semantic code search with Ollama embeddings, SQLite, hybrid search, and LLM summaries.
+- 📘 [openclaw-best-practices](https://github.com/solomonneas/openclaw-best-practices) - Production runbooks for security hardening, multi-model orchestration, and recovery.
+- 📊 [usage-tracker](https://github.com/solomonneas/usage-tracker) - Token usage and cost analytics for OpenClaw sessions across models.
+- 📚 [prompt-library](https://github.com/solomonneas/prompt-library) - Dual-mode prompt management with browse/copy UI and a REST API for sub-agents.
 
-</div>
+**Security & Threat Intelligence**
+- 🛡️ [cyberbrief](https://github.com/solomonneas/cyberbrief) - AI threat intel briefings with BLUF reports, ATT&CK mapping, and IOC extraction.
+- 🔍 [bro-hunter](https://github.com/solomonneas/bro-hunter) - Threat hunting for Zeek and Suricata logs with beaconing detection and MITRE mapping.
+- 🔬 [intel-workbench](https://github.com/solomonneas/intel-workbench) - Threat intel analysis with ACH matrices, evidence weighting, and STIX export.
+- 📖 [playbook-forge](https://github.com/solomonneas/playbook-forge) - IR playbook builder with visual flowcharts, an execution engine, and SOAR integration.
+- 🏗️ [soc-stack](https://github.com/solomonneas/soc-stack) - Full SOC architecture covering MCP servers, detection pipelines, and deployment playbooks.
 
-## Focus
+**MCP Servers**
+- 🧠 [cortex-mcp](https://github.com/solomonneas/cortex-mcp) - Observable analysis for IOCs, reports, and response actions.
+- 🛡️ [wazuh-mcp](https://github.com/solomonneas/wazuh-mcp) - SIEM access for agents, alerts, rules, and decoders.
+- 🔬 [misp-mcp](https://github.com/solomonneas/misp-mcp) - Threat intel search, IOC correlation, and STIX/Suricata/CSV export.
+- 🐝 [thehive-mcp](https://github.com/solomonneas/thehive-mcp) - Incident response workflows for cases, alerts, tasks, and observables.
+- ⚔️ [mitre-mcp](https://github.com/solomonneas/mitre-mcp) - MITRE ATT&CK technique mapping, threat group profiling, and detection gap analysis.
+- 🔎 [zeek-mcp](https://github.com/solomonneas/zeek-mcp) - Network monitoring access for connection, DNS, HTTP, and SSL logs.
+- 🦔 [suricata-mcp](https://github.com/solomonneas/suricata-mcp) - IDS/IPS workflows for managing rules, querying alerts, and analyzing traffic.
+- 🕸️ [maltego-mcp](https://github.com/solomonneas/maltego-mcp) - Maltego graph authoring and OSINT lookups for whois, DNS, ASN, and crt.sh.
+- ⚙️ [n8n-ops-mcp](https://github.com/solomonneas/n8n-ops-mcp) - Ops control for n8n workflows, validation, and execution lifecycle.
 
-- Security operations tools, threat intelligence workflows, and incident response automation.
-- Network observability for real environments across NOC, SOC, Proxmox, and LibreNMS stacks.
-- AI infrastructure, MCP servers, OpenClaw workflows, and agent-oriented developer tooling.
+**Network & Infrastructure**
+- 🔭 [watchtower](https://github.com/solomonneas/watchtower) - NOC dashboard with interactive topology, L2/L3 views, and LibreNMS/Proxmox integration.
+- 🔌 [portgrid](https://github.com/solomonneas/portgrid) - Switch port visualization for LibreNMS with color-coded views and instant search.
+- 🔒 [proxguard](https://github.com/solomonneas/proxguard) - Proxmox firewall rule visualization with conflict detection and rule simulation.
+- 🐧 [samba-ad-migration](https://github.com/solomonneas/samba-ad-migration) - Windows AD to Samba file share migration scripts for Proxmox.
 
-## Project Index
+**Media Automation**
+- 📺 [media-cli](https://github.com/solomonneas/media-cli) - Single-file bash CLI for Sonarr, Radarr, Prowlarr, qBittorrent, Bazarr, Jellyseerr, and Tdarr.
+- 🎬 [jellyfin-mcp](https://github.com/solomonneas/jellyfin-mcp) - Control Jellyfin from LLMs with playback sessions, library scans, user admin, and 20 MCP tools.
 
-[OpenClaw & Dev Tools](#openclaw--dev-tools) · [Security & Threat Intelligence](#security--threat-intelligence) · [MCP Servers](#mcp-servers-model-context-protocol) · [Network & Infrastructure](#network--infrastructure) · [Media Automation](#media-automation) · [Tech](#tech)
+**Currently Contributing To**
+- 🧃 [vincentkoc/tokenjuice](https://github.com/vincentkoc/tokenjuice) - Lean output compaction for terminal-heavy agent workflows.
+- 📝 [steipete/summarize](https://github.com/steipete/summarize) - Fast summaries from URLs, files, and media. CLI + Chrome Side Panel + Firefox Sidebar with video slides, OCR, and transcript extraction.
 
-## OpenClaw & Dev Tools
-| Project | Description |
-|:--------|:------------|
-| 🔍 [Code Search API](https://github.com/solomonneas/code-search-api) | Local semantic code search with Ollama embeddings, SQLite, hybrid search, language-aware chunking, and LLM summaries. |
-| 📘 [OpenClaw Best Practices](https://github.com/solomonneas/openclaw-best-practices) | Production runbooks for security hardening, multi-model orchestration, memory optimization, sub-agent patterns, and recovery. |
-| 📊 [Usage Tracker](https://github.com/solomonneas/usage-tracker) | Token usage and cost analytics for OpenClaw sessions, including multi-model breakdowns. |
-| 📚 [Prompt Library](https://github.com/solomonneas/prompt-library) | Dual-mode prompt management with browse/copy UI and a REST API for sub-agents. |
+More to come as PRs land.
 
-## Security & Threat Intelligence
-| Project | Description |
-|:--------|:------------|
-| 🛡️ [CyberBRIEF](https://github.com/solomonneas/cyberbrief) | AI threat intel briefings with BLUF reports, ATT&CK mapping, IOC extraction, and multi-source research. |
-| 🔍 [Bro Hunter](https://github.com/solomonneas/bro-hunter) | Threat hunting for Zeek and Suricata logs with beaconing detection, DNS anomaly analysis, and MITRE mapping. |
-| 🔬 [Intel Workbench](https://github.com/solomonneas/intel-workbench) | Threat intel analysis with ACH matrices, cognitive bias checklists, evidence weighting, and STIX export. |
-| 📖 [Playbook Forge](https://github.com/solomonneas/playbook-forge) | IR playbook builder with visual flowcharts, an execution engine, AI generation, and SOAR integration. |
-| 🏗️ [S³ Stack](https://github.com/solomonneas/soc-stack) | Full SOC architecture covering MCP servers, detection pipelines, and deployment playbooks. |
+I'm always open to building, contributing, collaborating, and chatting. Feel free to [reach out](https://solomonneas.dev).
 
-## MCP Servers (Model Context Protocol)
-| Project | Description |
-|:--------|:------------|
-| 🧠 [Cortex MCP](https://github.com/solomonneas/cortex-mcp) | Observable analysis for submitting IOCs, retrieving reports, and triggering response actions. |
-| 🛡️ [Wazuh MCP](https://github.com/solomonneas/wazuh-mcp) | SIEM access for agents, alerts, rules, and decoders. |
-| 🔬 [MISP MCP](https://github.com/solomonneas/misp-mcp) | Threat intel search, IOC correlation, and STIX, Suricata, or CSV export. |
-| 🐝 [TheHive MCP](https://github.com/solomonneas/thehive-mcp) | Incident response workflows for cases, alerts, tasks, and observables. |
-| ⚔️ [MITRE ATT&CK MCP](https://github.com/solomonneas/mitre-mcp) | Technique mapping, threat group profiling, and detection gap analysis. |
-| 🔎 [Zeek MCP](https://github.com/solomonneas/zeek-mcp) | Network monitoring access for connection, DNS, HTTP, and SSL logs. |
-| 🦔 [Suricata MCP](https://github.com/solomonneas/suricata-mcp) | IDS/IPS workflows for managing rules, querying alerts, and analyzing traffic. |
-| 🕸️ [Maltego MCP](https://github.com/solomonneas/maltego-mcp) | Maltego `.mtgx` graph authoring and basic OSINT lookups for whois, DNS, ASN, and crt.sh. |
-| ⚙️ [n8n Ops MCP](https://github.com/solomonneas/n8n-ops-mcp) | Ops control for n8n workflows, validation, execution lifecycle, and OpenClaw plugin integration. |
+### Featured Writing
 
-## Network & Infrastructure
-| Project | Description |
-|:--------|:------------|
-| 🔭 [Watchtower](https://github.com/solomonneas/watchtower) | NOC dashboard with interactive topology, L2/L3 views, and LibreNMS/Proxmox integration. |
-| 🔌 [PortGrid](https://github.com/solomonneas/portgrid) | Switch port visualization for LibreNMS with color-coded views and instant search. |
-| 🔒 [ProxGuard](https://github.com/solomonneas/proxguard) | Proxmox firewall rule visualization with conflict detection and rule simulation. |
-| 🐧 [Samba AD Migration](https://github.com/solomonneas/samba-ad-migration) | Windows AD to Samba file share migration scripts for Proxmox. |
+**Infrastructure Migrations**
+- 💰 [How I Migrated 6 Servers from VMware to Proxmox and Saved $343K](https://solomonneas.dev/blog/vmware-to-proxmox-migration)
+- 🖥️ [I Migrated Our Entire Infrastructure from Hyper-V to Proxmox](https://solomonneas.dev/blog/hyperv-to-proxmox-migration-guide)
+- 💿 [Replacing SCCM with FOG Project](https://solomonneas.dev/blog/replacing-sccm-with-fog-project)
 
-## Media Automation
-| Project | Description |
-|:--------|:------------|
-| 📺 [media-cli](https://github.com/solomonneas/media-cli) | Single-file bash CLI for Sonarr, Radarr, Prowlarr, qBittorrent, Bazarr, Jellyseerr, and Tdarr, with SSH/local modes and hardening controls. |
-| 🎬 [Jellyfin MCP](https://github.com/solomonneas/jellyfin-mcp) | Control Jellyfin from LLMs with playback sessions, library scans, user admin, scheduled tasks, activity logs, and 20 MCP tools. |
+**SOC & Security Operations**
+- 🛡️ [I'm a Lab Assistant. So I Built My Own SOC](https://solomonneas.dev/blog/building-open-source-soc)
+- 🔬 [SOC Showcase: What a Security Operations Center Actually Looks Like](https://solomonneas.dev/blog/building-soc-showcase)
 
-## Tech
+**Network Engineering**
+- 📡 [A Fiber Cut at 2 PM Taught Me Why I Needed to Build Watchtower](https://solomonneas.dev/blog/building-watchtower)
+- 🎓 [3 Days, 18 Hours: What I Learned at NDG's Proxmox Workshop](https://solomonneas.dev/blog/ndg-proxmox-workshop)
+
+<!--
+### Tech
 - **Languages:** Python (FastAPI), TypeScript (React, Next.js, Astro), Rust, SQL, Shell
 - **Infrastructure:** Cisco IOS/IOS-XE, Dell PowerEdge, Proxmox, Fortinet, Juniper/Mist
 - **Security:** Zeek, Suricata, Wazuh, TheHive, Cortex, MISP, MITRE ATT&CK
 - **AI:** Claude, GPT, Gemini, MCP Servers, Ollama, OpenClaw, agent workflows
 - **Tooling:** LibreNMS, Netdisco, Docker, Linux, Git
+-->
