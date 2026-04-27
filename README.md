@@ -68,7 +68,6 @@ I'm always open to building, contributing, collaborating, and chatting. Feel fre
 
 **SOC & Security Operations**
 - 🛡️ [I'm a Lab Assistant. So I Built My Own SOC](https://solomonneas.dev/blog/building-open-source-soc)
-- 🔬 [SOC Showcase: What a Security Operations Center Actually Looks Like](https://solomonneas.dev/blog/building-soc-showcase)
 
 **Network Engineering**
 - 📡 [A Fiber Cut at 2 PM Taught Me Why I Needed to Build Watchtower](https://solomonneas.dev/blog/building-watchtower)
