@@ -26,7 +26,7 @@ Some of the projects I've built or maintain:
 - 🛡️ [cyberbrief](https://github.com/solomonneas/cyberbrief) - AI threat intel briefings with BLUF reports, ATT&CK mapping, and IOC extraction.
 - 🔍 [bro-hunter](https://github.com/solomonneas/bro-hunter) - Threat hunting for Zeek and Suricata logs with beaconing detection and MITRE mapping.
 - 🔬 [intel-workbench](https://github.com/solomonneas/intel-workbench) - Threat intel analysis with ACH matrices, evidence weighting, and STIX export.
-- 📖 [playbook-forge](https://github.com/solomonneas/playbook-forge) - IR playbook builder with visual flowcharts, an execution engine, and SOAR integration.
+- 📖 [hotwash](https://github.com/solomonneas/hotwash) - SOC playbook parser with mermaid diagram generation.
 - 🏗️ [soc-stack](https://github.com/solomonneas/soc-stack) - Full SOC architecture covering MCP servers, detection pipelines, and deployment playbooks.
 
 **MCP Servers**
