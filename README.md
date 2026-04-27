@@ -2,7 +2,7 @@
 
 I'm a Network & Systems Engineer / Teaching Lab Aid focused on cybersecurity, network observability, and AI infrastructure. I build SOC tooling, MCP servers, and agent workflows that run on real production gear, not toy demos. I write about it at [solomonneas.dev/blog](https://solomonneas.dev/blog).
 
-- 🇺🇸 US based in Tampa, FL, near the beach.
+- <img src="https://flagcdn.com/20x15/us.png" alt="US flag" width="20"> US based in Tampa, FL, near the beach.
 - 🎓 M.S. Cybersecurity Intelligence & Information Security at the University of South Florida.
 - 🛡️ Building open-source SOC + threat intel tooling on bare-metal Proxmox.
 - 🔭 Deep in multi-agent orchestration, MCP servers, and detection engineering.
