@@ -1,4 +1,4 @@
-### Hi 👋, I'm Solomon
+### Yellow 👋, I'm Solomon
 
 I'm a Network & Systems Engineer / Teaching Lab Aid focused on cybersecurity, network observability, and AI infrastructure. I build SOC tooling, MCP servers, and agent workflows that run on real production gear, not toy demos. I write about it at [solomonneas.dev/blog](https://solomonneas.dev/blog).
 
