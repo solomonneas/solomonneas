@@ -2,15 +2,15 @@
 
 I'm a Network & Systems Engineer / Teaching Lab Aid focused on cybersecurity, network observability, and AI infrastructure. I build SOC tooling, MCP servers, and agent workflows that run on real production gear, not toy demos. I write about it at [solomonneas.dev/blog](https://solomonneas.dev/blog).
 
-- 🇺🇸 Based in Tampa, FL, near the beach.
+- 🇺🇸 US based in Tampa, FL, near the beach.
 - 🎓 M.S. Cybersecurity Intelligence & Information Security at the University of South Florida.
 - 🛡️ Building open-source SOC + threat intel tooling on bare-metal Proxmox.
-- 🔭 Obsessing on multi-agent orchestration, MCP servers, and detection engineering.
+- 🔭 Deep in multi-agent orchestration, MCP servers, and detection engineering.
 - 🌱 Currently exploring self-hosted AI stacks, network observability, and incident response automation.
-- ✍️ Writing regularly on [my blog](https://solomonneas.dev/blog), Dev.to, Hashnode, and X.
+- ✍️ Writing regularly on [my blog](https://solomonneas.dev/blog), Dev.to, Hashnode, CoderLegion, and X.
 - 💬 Ask me about **Proxmox migrations, network monitoring, MCP servers, OpenClaw, and open-source SOC**.
 - ⚙️ Big believer in open source, dogfooding everything, and writing it down so the next person doesn't have to figure it out.
-- 👨‍👧 Father, retired chef of 17 years, beach lover, and OSS contributor when I'm not on a screen.
+- 👨‍👧 Father, retired chef of 17 years, OSS contributor, and beach lover when I'm not on a screen.
 - ☕ If my work helped you, [buy me a coffee](https://www.buymeacoffee.com/solomonneas) or [tip on Ko-fi](https://ko-fi.com/solomonneas).
 - 📫 Reach me at [me@solomonneas.dev](mailto:me@solomonneas.dev) · [LinkedIn](https://www.linkedin.com/in/solomon-neas/) · [X](https://x.com/solomonneas) · [Bluesky](https://bsky.app/profile/solomonneas.dev) · [Mastodon](https://infosec.exchange/@solomonneas)
 
@@ -53,6 +53,7 @@ Some of the projects I've built or maintain:
 **Currently Contributing To**
 - 🧃 [vincentkoc/tokenjuice](https://github.com/vincentkoc/tokenjuice) - Lean output compaction for terminal-heavy agent workflows.
 - 📝 [steipete/summarize](https://github.com/steipete/summarize) - Fast summaries from URLs, files, and media. CLI + Chrome Side Panel + Firefox Sidebar with video slides, OCR, and transcript extraction.
+- 📬 [steipete/gogcli](https://github.com/steipete/gogcli) - Google Suite CLI for Gmail, Calendar, Drive, and Contacts.
 
 More to come as PRs land.
 
