@@ -55,6 +55,7 @@ Some of the projects I've built or maintain:
 - 📝 [steipete/summarize](https://github.com/steipete/summarize) - Fast summaries from URLs, files, and media. CLI + Chrome Side Panel + Firefox Sidebar with video slides, OCR, and transcript extraction.
 - 📬 [steipete/gogcli](https://github.com/steipete/gogcli) - Google Suite CLI for Gmail, Calendar, Drive, and Contacts.
 - 🦞 [openclaw/plugin-inspector](https://github.com/openclaw/plugin-inspector) - Offline compatibility inspector for mocking OpenClaw and testing plugins.
+- 💬 [steipete/discrawl](https://github.com/steipete/discrawl) - CLI for Discord with a SQLite backend.
 
 More to come as PRs land.
 
