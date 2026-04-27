@@ -6,6 +6,7 @@ I'm a Network & Systems Engineer / Teaching Lab Aid focused on cybersecurity, ne
 - 🎓 M.S. Cybersecurity Intelligence & Information Security at the University of South Florida.
 - 🛡️ Building open-source SOC + threat intel tooling on bare-metal Proxmox.
 - 🔭 Deep in multi-agent orchestration, MCP servers, and detection engineering.
+- 🪢 n8n enthusiast, wiring up self-hosted automation for intel pipelines, monitoring, and SOC ops.
 - 🌱 Currently exploring self-hosted AI stacks, network observability, and incident response automation.
 - ✍️ Writing regularly on [my blog](https://solomonneas.dev/blog), Dev.to, Hashnode, CoderLegion, and X.
 - 💬 Ask me about **Proxmox migrations, network monitoring, MCP servers, OpenClaw, and open-source SOC**.
