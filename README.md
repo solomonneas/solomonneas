@@ -73,6 +73,9 @@ I'm always open to building, contributing, collaborating, and chatting. Feel fre
 - 📡 [A Fiber Cut at 2 PM Taught Me Why I Needed to Build Watchtower](https://solomonneas.dev/blog/building-watchtower)
 - 🎓 [3 Days, 18 Hours: What I Learned at NDG's Proxmox Workshop](https://solomonneas.dev/blog/ndg-proxmox-workshop)
 
+**Agents & AI Infrastructure**
+- 🤖 [Anthropic Broke My OpenClaw Stack. GPT 5.4 Put It Back Together](https://solomonneas.dev/blog/openclaw-after-anthropic-how-i-made-gpt-54-work)
+
 <!--
 ### Tech
 - **Languages:** Python (FastAPI), TypeScript (React, Next.js, Astro), Rust, SQL, Shell
