@@ -34,6 +34,7 @@ I build security tools, network monitoring systems, and AI-driven automation on 
 | 🔎 [Zeek MCP](https://github.com/solomonneas/zeek-mcp) | Network monitoring: connection logs, DNS, HTTP, SSL |
 | 🦔 [Suricata MCP](https://github.com/solomonneas/suricata-mcp) | IDS/IPS: manage rules, query alerts, analyze traffic |
 | 🕸️ [Maltego MCP](https://github.com/solomonneas/maltego-mcp) | Author Maltego .mtgx graphs and run primitive OSINT lookups (whois/DNS/ASN/crt.sh) |
+| ⚙️ [n8n Ops MCP](https://github.com/solomonneas/n8n-ops-mcp) | Ops control for n8n: list, inspect, trigger, validate workflows plus full workflow and execution lifecycle. MCP server and first-class OpenClaw plugin |
 
 
 #### Network & Infrastructure
