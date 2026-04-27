@@ -9,7 +9,7 @@ I'm a Network & Systems Engineer / Teaching Lab Aid focused on cybersecurity, ne
 - 🪢 n8n enthusiast, wiring up self-hosted automation for intel pipelines, monitoring, and SOC ops.
 - 🌱 Currently exploring self-hosted AI stacks, network observability, and incident response automation.
 - ✍️ Writing regularly on [my blog](https://solomonneas.dev/blog), Dev.to, Hashnode, CoderLegion, and X.
-- 💬 Ask me about **Proxmox migrations, network monitoring, MCP servers, OpenClaw, and open-source SOC**.
+- 💬 Ask me about **Proxmox migrations, network monitoring, MCP servers, OpenClaw, agent orchestration, and open-source SOC**.
 - ⚙️ Big believer in open source, dogfooding everything, and writing it down so the next person doesn't have to figure it out.
 - 👨‍👧 Father, retired chef of 17 years, OSS contributor, and beach lover when I'm not on a screen.
 - ☕ If my work helped you, [buy me a coffee](https://www.buymeacoffee.com/solomonneas) or [tip on Ko-fi](https://ko-fi.com/solomonneas).
