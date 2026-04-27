@@ -54,6 +54,7 @@ Some of the projects I've built or maintain:
 - 🧃 [vincentkoc/tokenjuice](https://github.com/vincentkoc/tokenjuice) - Lean output compaction for terminal-heavy agent workflows.
 - 📝 [steipete/summarize](https://github.com/steipete/summarize) - Fast summaries from URLs, files, and media. CLI + Chrome Side Panel + Firefox Sidebar with video slides, OCR, and transcript extraction.
 - 📬 [steipete/gogcli](https://github.com/steipete/gogcli) - Google Suite CLI for Gmail, Calendar, Drive, and Contacts.
+- 🦞 [openclaw/plugin-inspector](https://github.com/openclaw/plugin-inspector) - Offline compatibility inspector for mocking OpenClaw and testing plugins.
 
 More to come as PRs land.
 
