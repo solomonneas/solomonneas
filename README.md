@@ -3,16 +3,16 @@
 I'm a Network & Systems Engineer / Teaching Lab Aid focused on cybersecurity, network observability, and AI infrastructure. I build SOC tooling, MCP servers, and agent workflows that run on real production gear, not toy demos. I write about it at [solomonneas.dev/blog](https://solomonneas.dev/blog).
 
 - <img src="https://flagcdn.com/20x15/us.png" alt="US flag" width="20"> US based in Tampa, FL, near the beach.
-- 🎓 M.S. Cybersecurity Intelligence & Information Security at the University of South Florida.
+- 📜 M.S. Cybersecurity Intelligence & Information Security at the University of South Florida.
 - 🛡️ Building open-source SOC + threat intel tooling on bare-metal Proxmox.
-- 🔭 Deep in multi-agent orchestration, MCP servers, and detection engineering.
+- 🤖 Deep in multi-agent orchestration, MCP servers, and detection engineering.
 - 🪢 n8n enthusiast, wiring up self-hosted automation for intel pipelines, monitoring, and SOC ops.
-- 🌱 Currently exploring self-hosted AI stacks, network observability, and incident response automation.
-- ✍️ Writing regularly on [my blog](https://solomonneas.dev/blog), Dev.to, Hashnode, CoderLegion, and X.
-- 💬 Ask me about **Proxmox migrations, network monitoring, MCP servers, OpenClaw, agent orchestration, and open-source SOC**.
+- 🧭 Currently exploring self-hosted AI stacks, network observability, and incident response automation.
+- 📝 Writing regularly on [my blog](https://solomonneas.dev/blog), Dev.to, Hashnode, CoderLegion, and X.
+- 🗣️ Ask me about **Proxmox migrations, network monitoring, MCP servers, OpenClaw, agent orchestration, and open-source SOC**.
 - ⚙️ Big believer in open source, dogfooding everything, and writing it down so the next person doesn't have to figure it out.
 - 👨‍👧 Father, retired chef of 17 years, OSS contributor, and beach lover when I'm not on a screen.
-- ☕ If my work helped you, [buy me a coffee](https://www.buymeacoffee.com/solomonneas) or [tip on Ko-fi](https://ko-fi.com/solomonneas).
+- 🫶 If my work helped you, [buy me a coffee](https://www.buymeacoffee.com/solomonneas) or [tip on Ko-fi](https://ko-fi.com/solomonneas).
 - 📫 Reach me at [me@solomonneas.dev](mailto:me@solomonneas.dev) · [LinkedIn](https://www.linkedin.com/in/solomon-neas/) · [X](https://x.com/solomonneas) · [Bluesky](https://bsky.app/profile/solomonneas.dev) · [Mastodon](https://infosec.exchange/@solomonneas)
 
 Some of the projects I've built or maintain:
