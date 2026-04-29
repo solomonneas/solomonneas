@@ -13,7 +13,7 @@ I'm a Network & Systems Engineer / Teaching Lab Aid focused on cybersecurity, ne
 - ⚙️ Big believer in open source, dogfooding everything, and writing it down so the next person doesn't have to figure it out.
 - 👨‍👧 Father, retired chef of 17 years, OSS contributor, and beach lover when I'm not on a screen.
 - 🫶 If my work helped you, [buy me a coffee](https://www.buymeacoffee.com/solomonneas) or [tip on Ko-fi](https://ko-fi.com/solomonneas).
-- 📫 Reach me at [me@solomonneas.dev](mailto:me@solomonneas.dev) · [LinkedIn](https://www.linkedin.com/in/solomon-neas/) · [X](https://x.com/solomonneas)
+- 📫 Reach me at [me@solomonneas.dev](mailto:me@solomonneas.dev) · [LinkedIn](https://www.linkedin.com/in/solomon-neas/) · [X](https://x.com/solomonneas) <!-- content-guard: allow pii/email -->
 
 Some of the projects I've built or maintain:
 
@@ -58,6 +58,7 @@ Some of the projects I've built or maintain:
 - 📬 [steipete/gogcli](https://github.com/steipete/gogcli) - Google Suite CLI for Gmail, Calendar, Drive, and Contacts.
 - 🦞 [openclaw/plugin-inspector](https://github.com/openclaw/plugin-inspector) - Offline compatibility inspector for mocking OpenClaw and testing plugins.
 - 💬 [steipete/discrawl](https://github.com/steipete/discrawl) - CLI for Discord with a SQLite backend.
+- 🎭 [microsoft/playwright](https://github.com/microsoft/playwright) - Cross-browser automation and testing framework, including the Playwright MCP server for agents.
 
 More to come as PRs land.
 
