@@ -41,6 +41,7 @@ Some of the projects I've built or maintain:
 - 🦔 [suricata-mcp](https://github.com/solomonneas/suricata-mcp) - IDS/IPS workflows for managing rules, querying alerts, and analyzing traffic.
 - 🕸️ [maltego-mcp](https://github.com/solomonneas/maltego-mcp) - Maltego graph authoring and OSINT lookups for whois, DNS, ASN, and crt.sh.
 - ⚙️ [n8n-ops-mcp](https://github.com/solomonneas/n8n-ops-mcp) - Ops control for n8n workflows, validation, and execution lifecycle.
+- 📮 [postiz-mcp](https://github.com/solomonneas/postiz-mcp) - Postiz social scheduling control with full public-API coverage, env-gated writes, and a 30/hr rate-limit guard.
 
 **Network & Infrastructure**
 - 🔭 [watchtower](https://github.com/solomonneas/watchtower) - NOC dashboard with interactive topology, L2/L3 views, and LibreNMS/Proxmox integration.
