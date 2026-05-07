@@ -62,7 +62,6 @@ Some of the projects I've built or maintain:
 - 💬 [steipete/discrawl](https://github.com/steipete/discrawl) - CLI for Discord with a SQLite backend.
 - 🎭 [microsoft/playwright](https://github.com/microsoft/playwright) - Cross-browser automation and testing framework, including the Playwright MCP server for agents.
 
-More to come as PRs land.
 
 I'm always open to building, contributing, collaborating, and chatting. Feel free to [reach out](https://solomonneas.dev).
 
