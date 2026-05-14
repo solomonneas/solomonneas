@@ -20,6 +20,7 @@ Some of the projects I've built or maintain:
 **OpenClaw & Dev Tools**
 - 🔍 [code-search-api](https://github.com/solomonneas/code-search-api) - Local semantic code search with Ollama embeddings, SQLite, hybrid search, and LLM summaries.
 - 🦞 [solos-cookbook](https://github.com/solomonneas/solos-cookbook) - Solomon's Guide to Cookin' with Gas: how one engineer runs a 24/7 multi-agent AI stack on bare metal. Opinionated. Dogfooded. Broken-and-fixed in production. Tested in service.
+- 🍳 [solo-mise](https://github.com/solomonneas/solo-mise) - Mise en place for the cookbook. One `pipx install` lays down the agent kitchen: 6 profiles (repo, workspace, openclaw, hermes, generic, publisher), content scrubber, handoff scaffolding, and a memory ingester. Everything in its place before you start cooking.
 - 📊 [usage-tracker](https://github.com/solomonneas/usage-tracker) - Token usage and cost analytics for OpenClaw sessions across models.
 - 📚 [prompt-library](https://github.com/solomonneas/prompt-library) - Dual-mode prompt management with browse/copy UI and a REST API for sub-agents.
 - 🛂 [content-guard](https://github.com/solomonneas/content-guard) - Policy-driven content scanning and publish checks.
