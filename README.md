@@ -48,6 +48,7 @@ Some of the projects I've built or maintain:
 - 🔭 [watchtower](https://github.com/solomonneas/watchtower) - NOC dashboard with interactive topology, L2/L3 views, and LibreNMS/Proxmox integration.
 - 🔌 [portgrid](https://github.com/solomonneas/portgrid) - Switch port visualization for LibreNMS with color-coded views and instant search.
 - 🔒 [proxguard](https://github.com/solomonneas/proxguard) - Proxmox firewall rule visualization with conflict detection and rule simulation.
+- 📶 [eero-cli](https://github.com/solomonneas/eero-cli) - Tiny CLI for the eero mesh API with non-interactive SMS auth, regex/MAC filtered device listing, and bulk blocking.
 - 🐧 [samba-ad-migration](https://github.com/solomonneas/samba-ad-migration) - Windows AD to Samba file share migration scripts for Proxmox.
 
 **Media Automation**
