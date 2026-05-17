@@ -46,6 +46,7 @@ Some of the projects I've built or maintain:
 - 📮 [postiz-mcp](https://github.com/solomonneas/postiz-mcp) - Postiz social scheduling control with full public-API coverage, env-gated writes, and a 30/hr rate-limit guard.
 - 🧱 [adguard-mcp](https://github.com/solomonneas/adguard-mcp) - AdGuard Home control across one or more instances with 15 tools across read, safe-write, and destructive tiers. Three-tier confirm gates, basic-auth redaction, multi-instance env config.
 - 🖥️ [proxmox-mcp](https://github.com/solomonneas/proxmox-mcp) - Proxmox VE control with 12 tools across read + safe-write tiers: status, container + VM lifecycle, snapshots, backups, recent tasks. Token auth, undici TLS-insecure dispatcher, multi-match ambiguity guard.
+- 📡 [librenms-mcp](https://github.com/solomonneas/librenms-mcp) - LibreNMS network monitoring control with 10 tools: device + port + alert reads, port health rankings, alert ack, maintenance windows. Token auth, undici TLS-insecure dispatcher, LibreNMS spec format validation.
 
 **Network & Infrastructure**
 - 🔭 [watchtower](https://github.com/solomonneas/watchtower) - NOC dashboard with interactive topology, L2/L3 views, and LibreNMS/Proxmox integration.
