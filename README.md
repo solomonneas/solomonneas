@@ -24,6 +24,7 @@ Some of the projects I've built or maintain:
 - 📊 [usage-tracker](https://github.com/solomonneas/usage-tracker) - Token usage and cost analytics for OpenClaw sessions across models.
 - 📚 [prompt-library](https://github.com/solomonneas/prompt-library) - Dual-mode prompt management with browse/copy UI and a REST API for sub-agents.
 - 🛂 [content-guard](https://github.com/solomonneas/content-guard) - Policy-driven content scanning and publish checks.
+- 🩺 [memory-doctor](https://github.com/solomonneas/memory-doctor) - Maintenance CLI for the Claude Code / OpenClaw memory system. Status, lint, ingest, and compact verbs with dry-run defaults, atomic writes, and path-safety on every mutation.
 
 **Security & Threat Intelligence**
 - 🛡️ [cyberbrief](https://github.com/solomonneas/cyberbrief) - AI threat intel briefings with BLUF reports, ATT&CK mapping, and IOC extraction.
@@ -43,6 +44,7 @@ Some of the projects I've built or maintain:
 - 🕸️ [maltego-mcp](https://github.com/solomonneas/maltego-mcp) - Maltego graph authoring and OSINT lookups for whois, DNS, ASN, and crt.sh.
 - ⚙️ [n8n-ops-mcp](https://github.com/solomonneas/n8n-ops-mcp) - Ops control for n8n workflows, validation, and execution lifecycle.
 - 📮 [postiz-mcp](https://github.com/solomonneas/postiz-mcp) - Postiz social scheduling control with full public-API coverage, env-gated writes, and a 30/hr rate-limit guard.
+- 🧱 [adguard-mcp](https://github.com/solomonneas/adguard-mcp) - AdGuard Home control across one or more instances with 15 tools across read, safe-write, and destructive tiers. Three-tier confirm gates, basic-auth redaction, multi-instance env config.
 
 **Network & Infrastructure**
 - 🔭 [watchtower](https://github.com/solomonneas/watchtower) - NOC dashboard with interactive topology, L2/L3 views, and LibreNMS/Proxmox integration.
