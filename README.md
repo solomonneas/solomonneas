@@ -61,6 +61,10 @@ Some of the projects I've built or maintain:
 - 🎞️ [reelgrep](https://github.com/solomonneas/reelgrep) - Local video search and analysis: ffprobe metadata, frame sampling, contact sheets, Whisper transcription, prose-transcript alignment, FTS5 subtitle search across the whole library, pluggable person-finding, and a local browser UI.
 - 🔍 [reelgrep-mcp](https://github.com/solomonneas/reelgrep-mcp) - MCP wrapper for reelgrep so agents can answer "which lecture mentioned X?" with citation-formatted timestamps from your local video library.
 
+**Streaming & OBS**
+- 🎛️ [deckctl](https://github.com/solomonneas/deckctl) - Cross-platform declarative driver for the Elgato Stream Deck. One YAML config, hot reload, daemon for Linux + Windows, OBS execution + live state indicators, auto profile switching driven by the focused window. No Elgato app required.
+- 🎥 [obsctl](https://github.com/solomonneas/obsctl) - kubectl-style multi-host wrapper around grigio/obs-cmd for managing OBS Studio across multiple machines from one CLI. Define hosts once, then `obsctl studio recording toggle` or `obsctl laptop scene switch "Camera"`.
+
 **Currently Contributing To**
 - 🧃 [vincentkoc/tokenjuice](https://github.com/vincentkoc/tokenjuice) - Lean output compaction for terminal-heavy agent workflows.
 - 📝 [steipete/summarize](https://github.com/steipete/summarize) - Fast summaries from URLs, files, and media. CLI + Chrome Side Panel + Firefox Sidebar with video slides, OCR, and transcript extraction.
