@@ -3,15 +3,14 @@
 I'm a Network & Systems Engineer / Teaching Lab Aid focused on cybersecurity, network observability, and AI infrastructure. I build SOC tooling, MCP servers, and agent workflows that run on real production gear, not toy demos. I write about it at [solomonneas.dev/blog](https://solomonneas.dev/blog).
 
 - <img src="https://flagcdn.com/20x15/us.png" alt="US flag" width="20"> US based in Tampa, FL, near the beach.
+- 👨‍👧 Father, retired chef of 17 years, OSS contributor, and beach lover when I'm not on a screen.
 - 📜 M.S. Cybersecurity Intelligence & Information Security at the University of South Florida.
 - 🛡️ Building open-source SOC + threat intel tooling on bare-metal Proxmox.
 - 🤖 Deep in multi-agent orchestration, MCP servers, and detection engineering.
 - 🪢 n8n enthusiast, wiring up self-hosted automation for intel pipelines, monitoring, and SOC ops.
 - 🧭 Currently exploring self-hosted AI stacks, network observability, and incident response automation.
-- 📝 Writing regularly on [my blog](https://solomonneas.dev/blog), Dev.to, Hashnode, CoderLegion, and X.
 - 🗣️ Ask me about **Proxmox migrations, network monitoring, MCP servers, OpenClaw, agent orchestration, and open-source SOC**.
 - ⚙️ Big believer in open source, dogfooding everything, and writing it down so the next person doesn't have to figure it out.
-- 👨‍👧 Father, retired chef of 17 years, OSS contributor, and beach lover when I'm not on a screen.
 - 🫶 If my work helped you, [buy me a coffee](https://www.buymeacoffee.com/solomonneas) or [tip on Ko-fi](https://ko-fi.com/solomonneas).
 - 📫 Reach me at [me@solomonneas.dev](mailto:me@solomonneas.dev) · [LinkedIn](https://www.linkedin.com/in/solomon-neas/) · [X](https://x.com/solomonneas) <!-- content-guard: allow pii/email -->
 
@@ -19,12 +18,12 @@ Some of the projects I've built or maintain:
 
 **OpenClaw & Dev Tools**
 - 🔍 [code-search-api](https://github.com/solomonneas/code-search-api) - Local semantic code search with Ollama embeddings, SQLite, hybrid search, and LLM summaries.
-- 🦞 [solos-cookbook](https://github.com/solomonneas/solos-cookbook) - Solomon's Guide to Cookin' with Gas: how one engineer runs a 24/7 multi-agent AI stack on bare metal. Opinionated. Dogfooded. Broken-and-fixed in production. Tested in service.
-- 🍳 [solo-mise](https://github.com/solomonneas/solo-mise) - Mise en place for the cookbook. One `pipx install` lays down the agent kitchen: 6 profiles (repo, workspace, openclaw, hermes, generic, publisher), content scrubber, handoff scaffolding, and a memory ingester. Everything in its place before you start cooking.
+- 🦞 [solos-cookbook](https://github.com/solomonneas/solos-cookbook) - Opinionated, dogfooded guide to running a 24/7 multi-agent AI stack on bare metal.
+- 🍳 [solo-mise](https://github.com/solomonneas/solo-mise) - Mise en place for the cookbook: one `pipx install` lays down 6 agent profiles, content scrubber, handoff scaffolding, and a memory ingester.
 - 📊 [usage-tracker](https://github.com/solomonneas/usage-tracker) - Token usage and cost analytics for OpenClaw sessions across models.
 - 📚 [prompt-library](https://github.com/solomonneas/prompt-library) - Dual-mode prompt management with browse/copy UI and a REST API for sub-agents.
 - 🛂 [content-guard](https://github.com/solomonneas/content-guard) - Policy-driven content scanning and publish checks.
-- 🩺 [memory-doctor](https://github.com/solomonneas/memory-doctor) - Maintenance CLI for the Claude Code / OpenClaw memory system. Status, lint, ingest, and compact verbs with dry-run defaults, atomic writes, and path-safety on every mutation.
+- 🩺 [memory-doctor](https://github.com/solomonneas/memory-doctor) - Maintenance CLI for the Claude Code / OpenClaw memory system with status, lint, ingest, and compact verbs, dry-run defaults, and atomic writes.
 
 **Security & Threat Intelligence**
 - 🛡️ [cyberbrief](https://github.com/solomonneas/cyberbrief) - AI threat intel briefings with BLUF reports, ATT&CK mapping, and IOC extraction.
@@ -44,9 +43,9 @@ Some of the projects I've built or maintain:
 - 🕸️ [maltego-mcp](https://github.com/solomonneas/maltego-mcp) - Maltego graph authoring and OSINT lookups for whois, DNS, ASN, and crt.sh.
 - ⚙️ [n8n-ops-mcp](https://github.com/solomonneas/n8n-ops-mcp) - Ops control for n8n workflows, validation, and execution lifecycle.
 - 📮 [postiz-mcp](https://github.com/solomonneas/postiz-mcp) - Postiz social scheduling control with full public-API coverage, env-gated writes, and a 30/hr rate-limit guard.
-- 🧱 [adguard-mcp](https://github.com/solomonneas/adguard-mcp) - AdGuard Home control across one or more instances with 28 tools across read, safe-write, and destructive tiers: status + stats, query log, filter lists, user rules, client CRUD, blocked services, safesearch/safebrowsing toggles, query-log clear, stats reset. Three-tier confirm gates, basic-auth redaction, multi-instance env config.
-- 🖥️ [proxmox-mcp](https://github.com/solomonneas/proxmox-mcp) - Proxmox VE control with 12 tools across read + safe-write tiers: status, container + VM lifecycle, snapshots, backups, recent tasks. Token auth, undici TLS-insecure dispatcher, multi-match ambiguity guard.
-- 📡 [librenms-mcp](https://github.com/solomonneas/librenms-mcp) - LibreNMS network monitoring control with 10 tools: device + port + alert reads, port health rankings, alert ack, maintenance windows. Token auth, undici TLS-insecure dispatcher, LibreNMS spec format validation.
+- 🧱 [adguard-mcp](https://github.com/solomonneas/adguard-mcp) - AdGuard Home control across one or more instances with 28 tools across read, safe-write, and destructive tiers with three-tier confirm gates.
+- 🖥️ [proxmox-mcp](https://github.com/solomonneas/proxmox-mcp) - Proxmox VE control with 12 tools covering status, container + VM lifecycle, snapshots, backups, and recent tasks.
+- 📡 [librenms-mcp](https://github.com/solomonneas/librenms-mcp) - LibreNMS network monitoring control with 10 tools for device, port, and alert reads, port health rankings, alert ack, and maintenance windows.
 
 **Network & Infrastructure**
 - 🔭 [watchtower](https://github.com/solomonneas/watchtower) - NOC dashboard with interactive topology, L2/L3 views, and LibreNMS/Proxmox integration.
@@ -57,12 +56,12 @@ Some of the projects I've built or maintain:
 
 **Media Automation**
 - 🎬 [jellyfin-mcp](https://github.com/solomonneas/jellyfin-mcp) - Control Jellyfin from LLMs with playback sessions, library scans, user admin, and 20 MCP tools.
-- 🎞️ [reelgrep](https://github.com/solomonneas/reelgrep) - Local video search and analysis: ffprobe metadata, frame sampling, contact sheets, Whisper transcription, prose-transcript alignment, FTS5 subtitle search across the whole library, pluggable person-finding, and a local browser UI.
+- 🎞️ [reelgrep](https://github.com/solomonneas/reelgrep) - Local video search and analysis with ffprobe metadata, Whisper transcription, FTS5 subtitle search, pluggable person-finding, and a browser UI.
 - 🔍 [reelgrep-mcp](https://github.com/solomonneas/reelgrep-mcp) - MCP wrapper for reelgrep so agents can answer "which lecture mentioned X?" with citation-formatted timestamps from your local video library.
 
 **Streaming & OBS**
-- 🎛️ [deckctl](https://github.com/solomonneas/deckctl) - Cross-platform declarative driver for the Elgato Stream Deck. One YAML config, hot reload, daemon for Linux + Windows, OBS execution + live state indicators, auto profile switching driven by the focused window. No Elgato app required.
-- 🎥 [obsctl](https://github.com/solomonneas/obsctl) - kubectl-style multi-host wrapper around grigio/obs-cmd for managing OBS Studio across multiple machines from one CLI. Define hosts once, then `obsctl studio recording toggle` or `obsctl laptop scene switch "Camera"`.
+- 🎛️ [deckctl](https://github.com/solomonneas/deckctl) - Cross-platform declarative driver for the Elgato Stream Deck with YAML config, hot reload, OBS execution, and auto profile switching, no Elgato app required.
+- 🎥 [obsctl](https://github.com/solomonneas/obsctl) - kubectl-style multi-host wrapper around grigio/obs-cmd for managing OBS Studio across multiple machines from one CLI.
 
 **Currently Contributing To**
 - 🧃 [vincentkoc/tokenjuice](https://github.com/vincentkoc/tokenjuice) - Lean output compaction for terminal-heavy agent workflows.
@@ -79,20 +78,13 @@ I'm always open to building, contributing, collaborating, and chatting. Feel fre
 
 ### Featured Writing
 
-**Infrastructure Migrations**
 - 💰 [How I Migrated 6 Servers from VMware to Proxmox and Saved $343K](https://solomonneas.dev/blog/vmware-to-proxmox-migration)
 - 🖥️ [I Migrated Our Entire Infrastructure from Hyper-V to Proxmox](https://solomonneas.dev/blog/hyperv-to-proxmox-migration-guide)
 - 💿 [Replacing SCCM with FOG Project](https://solomonneas.dev/blog/replacing-sccm-with-fog-project)
-
-**SOC & Security Operations**
 - 🛡️ [I'm a Lab Assistant. So I Built My Own SOC](https://solomonneas.dev/blog/building-open-source-soc)
 - 🧩 [I Built 7 MCP Servers for Security Tools. The Protocol Was the Easy Part.](https://solomonneas.dev/blog/building-security-mcp-servers)
-
-**Network Engineering**
 - 📡 [A Fiber Cut at 2 PM Taught Me Why I Needed to Build Watchtower](https://solomonneas.dev/blog/building-watchtower)
 - 🎓 [3 Days, 18 Hours: What I Learned at NDG's Proxmox Workshop](https://solomonneas.dev/blog/ndg-proxmox-workshop)
-
-**Agents & AI Infrastructure**
 - 🤖 [Anthropic Broke My OpenClaw Stack. GPT 5.4 Put It Back Together](https://solomonneas.dev/blog/openclaw-after-anthropic-how-i-made-gpt-54-work)
 
 <!--
