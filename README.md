@@ -56,7 +56,6 @@ Some of the projects I've built or maintain:
 - 🐧 [samba-ad-migration](https://github.com/solomonneas/samba-ad-migration) - Windows AD to Samba file share migration scripts for Proxmox.
 
 **Media Automation**
-- 📺 [media-cli](https://github.com/solomonneas/media-cli) - Single-file bash CLI for Sonarr, Radarr, Prowlarr, qBittorrent, Bazarr, Jellyseerr, and Tdarr.
 - 🎬 [jellyfin-mcp](https://github.com/solomonneas/jellyfin-mcp) - Control Jellyfin from LLMs with playback sessions, library scans, user admin, and 20 MCP tools.
 - 🎞️ [reelgrep](https://github.com/solomonneas/reelgrep) - Local video search and analysis: ffprobe metadata, frame sampling, contact sheets, Whisper transcription, prose-transcript alignment, FTS5 subtitle search across the whole library, pluggable person-finding, and a local browser UI.
 - 🔍 [reelgrep-mcp](https://github.com/solomonneas/reelgrep-mcp) - MCP wrapper for reelgrep so agents can answer "which lecture mentioned X?" with citation-formatted timestamps from your local video library.
