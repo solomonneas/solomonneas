@@ -14,7 +14,7 @@ I'm a Network & Systems Engineer / Teaching Lab Aid focused on cybersecurity, ne
 - 🫶 If my work helped you, [buy me a coffee](https://www.buymeacoffee.com/solomonneas) or [tip on Ko-fi](https://ko-fi.com/solomonneas).
 - 📫 Reach me at [me@solomonneas.dev](mailto:me@solomonneas.dev) · [LinkedIn](https://www.linkedin.com/in/solomon-neas/) · [X](https://x.com/solomonneas) <!-- content-guard: allow pii/email -->
 
-Some of the projects I've built or maintain:
+Some of the projects I've built and maintain:
 
 **OpenClaw & Dev Tools**
 - 🔍 [code-search-api](https://github.com/solomonneas/code-search-api) - Local semantic code search with Ollama embeddings, SQLite, hybrid search, and LLM summaries.
