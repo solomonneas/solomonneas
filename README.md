@@ -24,7 +24,7 @@ Some of the projects I've built and maintain:
 - 📚 [prompt-library](https://github.com/solomonneas/prompt-library) - Dual-mode prompt management with browse/copy UI and a REST API for sub-agents.
 - 🛂 [content-guard](https://github.com/solomonneas/content-guard) - Policy-driven content scanning and publish checks.
 - 🩺 [memory-doctor](https://github.com/solomonneas/memory-doctor) - Maintenance CLI for the Claude Code and OpenClaw memory systems.
-- 🍪 [agentpantry](https://github.com/solomonneas/agentpantry) - Encrypted, transport-agnostic sync of browser sessions and secrets from your daily driver to the box your agents run on, so they wake up authenticated.
+- 🍪 [agentpantry](https://github.com/escoffier-labs/agentpantry) - Encrypted, transport-agnostic sync of browser sessions and secrets from your daily driver to the box your agents run on, so they wake up authenticated.
 
 **Security & Threat Intelligence**
 - 🛡️ [cyberbrief](https://github.com/solomonneas/cyberbrief) - AI threat intel briefings with BLUF reports, ATT&CK mapping, and IOC extraction.
