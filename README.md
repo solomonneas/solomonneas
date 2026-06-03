@@ -17,6 +17,7 @@ I'm a Network & Systems Engineer and teaching lab aid in Tampa, FL, working wher
 [Escoffier Labs](https://github.com/escoffier-labs) is my studio for harness-agnostic agent infrastructure, named for the chef who systematized the kitchen brigade. Tools that get your agents into _mise en place_ and keep them there.
 
 - 🚩 **[brigade](https://github.com/escoffier-labs/brigade)** - **the flagship.** Mise en place for agent memory: an installable starter kit for a harness-agnostic agent workspace.
+- 🦞 [solos-cookbook](https://github.com/solomonneas/solos-cookbook) - Opinionated, dogfooded guide to running a 24/7 multi-agent AI stack on bare metal.
 - 🍪 [agentpantry](https://github.com/escoffier-labs/agentpantry) - Encrypted, transport-agnostic sync of browser sessions and secrets from your daily driver to the box your agents run on, so they wake up authenticated.
 - 🩺 [memory-doctor](https://github.com/escoffier-labs/memory-doctor) - Maintenance CLI for the Claude Code and OpenClaw memory systems: status, lint, ingest, compact.
 - 🧰 [bootstrap-doctor](https://github.com/escoffier-labs/bootstrap-doctor) - Audits and trims oversize OpenClaw prefix files into reference cards via heuristics and LLM judgment.
@@ -26,8 +27,6 @@ I'm a Network & Systems Engineer and teaching lab aid in Tampa, FL, working wher
 **OpenClaw & Dev Tools**
 - 🔍 [code-search-api](https://github.com/solomonneas/code-search-api) - Local semantic code search with Ollama embeddings, SQLite, hybrid search, and LLM summaries.
 - 🧩 [code-search-mcp](https://github.com/solomonneas/code-search-mcp) - Read-only MCP server and OpenClaw plugin that puts code-search-api in front of any agent.
-- 🦞 [solos-cookbook](https://github.com/solomonneas/solos-cookbook) - Opinionated, dogfooded guide to running a 24/7 multi-agent AI stack on bare metal.
-- 🍳 [solo-mise](https://github.com/solomonneas/solo-mise) - Mise en place for the cookbook: agent profiles, content scrubber, handoff, and memory ingester.
 - 📡 [upstream-drift](https://github.com/solomonneas/upstream-drift) - Upstream drift watcher: LLM-summarized diffs of tracked repos with weekly Discord digests.
 - 📊 [usage-tracker](https://github.com/solomonneas/usage-tracker) - Token usage and cost analytics for OpenClaw sessions across models.
 - 📚 [prompt-library](https://github.com/solomonneas/prompt-library) - Dual-mode prompt management with browse/copy UI and a REST API for sub-agents.
