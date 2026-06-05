@@ -35,6 +35,14 @@ I'm a Network & Systems Engineer and teaching lab aid in Tampa, FL, working wher
 - 🖥️ [ops-deck-oss](https://github.com/solomonneas/ops-deck-oss) - Self-hosted operational dashboard for OpenClaw users: React UI plus a minimal FastAPI sidecar.
 - 📸 [appshots](https://github.com/solomonneas/appshots) - Agent-neutral app screenshot capture CLI for clean, repeatable product shots.
 - 🎞️ [appreels](https://github.com/solomonneas/appreels) - Agent-neutral demo-video recorder, the moving-picture sibling of appshots.
+- 🧭 [openclaw-overlay](https://github.com/solomonneas/openclaw-overlay) - Always-on-top HUD overlay for OpenClaw: context windows, rate limits, session status.
+- 🪟 [wsl-devctl](https://github.com/solomonneas/wsl-devctl) - TUI for managing WSL dev servers: PM2, Caddy, and port monitoring.
+- 🌉 [wsl-bridge](https://github.com/solomonneas/wsl-bridge) - Auto-forwards WSL ports to the Windows host.
+
+**Local Evidence Stack**
+- 🧾 [logspine](https://github.com/solomonneas/logspine) - Turns scattered AI work history into a local, searchable evidence graph: SQLite FTS5 search, Markdown export, Brigade-ready evidence bundles.
+- 👣 [agenttrail](https://github.com/solomonneas/agenttrail) - Exports local agent session logs (Codex, Claude Code, OpenClaw, OpenCode, Hermes) to portable JSONL for logspine.
+- 🌾 [sourceharvest](https://github.com/solomonneas/sourceharvest) - Exports non-harness sources like notes, chat exports, and issue exports into the same adapter contract.
 
 **Security & Threat Intelligence**
 - 🛡️ [cyberbrief](https://github.com/solomonneas/cyberbrief) - AI threat intel briefings with BLUF reports, ATT&CK mapping, and IOC extraction.
@@ -57,11 +65,13 @@ I'm a Network & Systems Engineer and teaching lab aid in Tampa, FL, working wher
 - 🧱 [adguard-mcp](https://github.com/solomonneas/adguard-mcp) - AdGuard Home control with tools across read, safe-write, and destructive tiers.
 - 🖥️ [proxmox-mcp](https://github.com/solomonneas/proxmox-mcp) - Proxmox VE control with 12 tools for container/VM lifecycle, snapshots, and backups.
 - 📡 [librenms-mcp](https://github.com/solomonneas/librenms-mcp) - LibreNMS control with 10 tools for device, port, and alert reads plus alert acks.
+- 🛰️ [rapid7-mcp](https://github.com/solomonneas/rapid7-mcp) - Rapid7 InsightIDR access for SIEM log search, investigations, alerts, and UBA.
+- 🦠 [sophos-mcp](https://github.com/solomonneas/sophos-mcp) - Sophos Central endpoint management, EDR/XDR detections, and Live Discover queries.
 
 **Network & Infrastructure**
 - 🔭 [watchtower](https://github.com/solomonneas/watchtower) - NOC dashboard with interactive topology, L2/L3 views, and LibreNMS/Proxmox integration.
 - 🔌 [portgrid](https://github.com/solomonneas/portgrid) - Switch port visualization for LibreNMS with color-coded views and instant search.
-- 🔒 [proxguard](https://github.com/solomonneas/proxguard) - Proxmox firewall rule visualization with conflict detection and rule simulation.
+- 🔒 [proxguard](https://github.com/solomonneas/proxguard) - Proxmox security auditor with config parsers, CIS benchmarks, and remediation scripts.
 - 🧮 [config-diff-explainer](https://github.com/solomonneas/config-diff-explainer) - Offline CLI that turns before/after network device configs into operator-ready reports on what changed, what's risky, and how to roll back. 8 vendor parser paths.
 - 📶 [eero-cli](https://github.com/solomonneas/eero-cli) - CLI for the eero mesh API with SMS auth, filtered device listing, and bulk blocking.
 - 🐧 [samba-ad-migration](https://github.com/solomonneas/samba-ad-migration) - Windows AD to Samba file share migration scripts for Proxmox.
@@ -85,6 +95,7 @@ I'm a Network & Systems Engineer and teaching lab aid in Tampa, FL, working wher
 - 🦞 [openclaw/plugin-inspector](https://github.com/openclaw/plugin-inspector) - Offline compatibility inspector for mocking OpenClaw and testing plugins.
 - 🔌 [openclaw/acpx](https://github.com/openclaw/acpx) - Headless CLI client for stateful Agent Client Protocol (ACP) sessions.
 - 💬 [steipete/discrawl](https://github.com/steipete/discrawl) - CLI for Discord with a SQLite backend.
+- 🧰 [steipete/mcporter](https://github.com/steipete/mcporter) - Call MCP servers from TypeScript or package them as standalone CLIs.
 - 🎭 [microsoft/playwright](https://github.com/microsoft/playwright) - Cross-browser automation and testing framework.
 
 
