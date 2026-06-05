@@ -90,6 +90,7 @@ I'm a Network & Systems Engineer and teaching lab aid in Tampa, FL, working wher
 - 🦞 [openclaw/plugin-inspector](https://github.com/openclaw/plugin-inspector) - Offline compatibility inspector for mocking OpenClaw and testing plugins.
 - 🔌 [openclaw/acpx](https://github.com/openclaw/acpx) - Headless CLI client for stateful Agent Client Protocol (ACP) sessions.
 - 💬 [steipete/discrawl](https://github.com/steipete/discrawl) - CLI for Discord with a SQLite backend.
+- 🧰 [steipete/mcporter](https://github.com/steipete/mcporter) - Call MCP servers from TypeScript or package them as standalone CLIs.
 - 🎭 [microsoft/playwright](https://github.com/microsoft/playwright) - Cross-browser automation and testing framework.
 
 
