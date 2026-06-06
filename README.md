@@ -37,9 +37,9 @@ I'm a Network & Systems Engineer and teaching lab aid in Tampa, FL, working wher
 - 🎞️ [appreels](https://github.com/solomonneas/appreels) - Agent-neutral demo-video recorder, the moving-picture sibling of appshots.
 
 **Local Evidence Stack**
-- 🧾 [logspine](https://github.com/solomonneas/logspine) - Turns scattered AI work history into a local, searchable evidence graph: SQLite FTS5 search, Markdown export, Brigade-ready evidence bundles.
-- 👣 [agenttrail](https://github.com/solomonneas/agenttrail) - Exports local agent session logs (Codex, Claude Code, OpenClaw, OpenCode, Hermes) to portable JSONL for logspine.
-- 🌾 [sourceharvest](https://github.com/solomonneas/sourceharvest) - Exports non-harness sources like notes, chat exports, and issue exports into the same adapter contract.
+- 🧾 [miseledger](https://github.com/escoffier-labs/miseledger) - Turns scattered AI work history into a local, searchable evidence ledger: SQLite FTS5 search, Markdown export, and Brigade-ready evidence bundles.
+- 👣 [stationtrail](https://github.com/escoffier-labs/stationtrail) - Exports local agent session logs (Codex, Claude Code, OpenClaw, OpenCode, Hermes) to portable JSONL for MiseLedger.
+- 🌾 [sourceharvest](https://github.com/escoffier-labs/sourceharvest) - Exports non-harness sources like notes, chat exports, and issue exports into the same adapter contract.
 
 **Security & Threat Intelligence**
 - 🛡️ [cyberbrief](https://github.com/solomonneas/cyberbrief) - AI threat intel briefings with BLUF reports, ATT&CK mapping, and IOC extraction.
