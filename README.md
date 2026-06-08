@@ -16,11 +16,22 @@ I'm a Network & Systems Engineer and teaching lab aid in Tampa, FL, working wher
 
 [Escoffier Labs](https://github.com/escoffier-labs) is my studio for harness-agnostic agent infrastructure, named for the chef who systematized the kitchen brigade. Tools that get your agents into _mise en place_ and keep them there.
 
-- 🚩 **[brigade](https://github.com/escoffier-labs/brigade)** - **the flagship.** Mise en place for agent memory: an installable starter kit for a harness-agnostic agent workspace.
-- 🦞 [solos-cookbook](https://github.com/solomonneas/solos-cookbook) - Opinionated, dogfooded guide to running a 24/7 multi-agent AI stack on bare metal.
+**Core**
+- 🚩 **[brigade](https://github.com/escoffier-labs/brigade)** - **the flagship.** Your agents run loops; Brigade keeps the receipts. Local operator layer for memory, tasks, tools, research, review, and release across every harness.
+- 🦞 [solos-cookbook](https://github.com/solomonneas/solos-cookbook) - The companion cookbook: opinionated, dogfooded guide to running a 24/7 multi-agent AI stack on bare metal.
+
+**Agent ops**
 - 🍪 [agentpantry](https://github.com/escoffier-labs/agentpantry) - Encrypted, transport-agnostic sync of browser sessions and secrets from your daily driver to the box your agents run on, so they wake up authenticated.
 - 🩺 [memory-doctor](https://github.com/escoffier-labs/memory-doctor) - Maintenance CLI for the Claude Code and OpenClaw memory systems: status, lint, ingest, compact.
 - 🧰 [bootstrap-doctor](https://github.com/escoffier-labs/bootstrap-doctor) - Audits and trims oversize OpenClaw prefix files into reference cards via heuristics and LLM judgment.
+- 🛂 [content-guard](https://github.com/escoffier-labs/content-guard) - Policy-driven content scanning and publish checks that catch secrets, hostnames, and IPs before they leave the machine.
+- 🔔 [agent-notify](https://github.com/escoffier-labs/agent-notify) - Privacy-first push notifications for AI coding agents to Discord, Telegram, and Signal with zero telemetry.
+- 🛎️ [cloche](https://github.com/escoffier-labs/cloche) - Agent-neutral desktop capture: polished shots with metadata and stable JSON, with an optional MCP server.
+
+**Evidence stack**
+- 🧾 [miseledger](https://github.com/escoffier-labs/miseledger) - Turns scattered AI work history into a local, searchable evidence ledger: SQLite FTS5 search, Markdown export, and Brigade-ready evidence bundles.
+- 👣 [stationtrail](https://github.com/escoffier-labs/stationtrail) - Exports local agent session logs (Codex, Claude Code, OpenClaw, OpenCode, Hermes) to portable JSONL for MiseLedger.
+- 🌾 [sourceharvest](https://github.com/escoffier-labs/sourceharvest) - Exports non-harness sources like notes, chat exports, and issue exports into the same adapter contract.
 
 ## Other projects I've built and maintain
 
@@ -30,16 +41,8 @@ I'm a Network & Systems Engineer and teaching lab aid in Tampa, FL, working wher
 - 📡 [upstream-drift](https://github.com/solomonneas/upstream-drift) - Upstream drift watcher: LLM-summarized diffs of tracked repos with weekly Discord digests.
 - 📊 [usage-tracker](https://github.com/solomonneas/usage-tracker) - Token usage and cost analytics for OpenClaw sessions across models.
 - 📚 [prompt-library](https://github.com/solomonneas/prompt-library) - Dual-mode prompt management with browse/copy UI and a REST API for sub-agents.
-- 🛂 [content-guard](https://github.com/solomonneas/content-guard) - Policy-driven content scanning and publish checks.
-- 🔔 [agent-notify](https://github.com/solomonneas/agent-notify) - Privacy-first push notifications for AI coding agents to Discord, Telegram, and Signal with zero telemetry.
 - 🖥️ [ops-deck-oss](https://github.com/solomonneas/ops-deck-oss) - Self-hosted operational dashboard for OpenClaw users: React UI plus a minimal FastAPI sidecar.
-- 📸 [appshots](https://github.com/solomonneas/appshots) - Agent-neutral app screenshot capture CLI for clean, repeatable product shots.
-- 🎞️ [appreels](https://github.com/solomonneas/appreels) - Agent-neutral demo-video recorder, the moving-picture sibling of appshots.
-
-**Local Evidence Stack**
-- 🧾 [miseledger](https://github.com/escoffier-labs/miseledger) - Turns scattered AI work history into a local, searchable evidence ledger: SQLite FTS5 search, Markdown export, and Brigade-ready evidence bundles.
-- 👣 [stationtrail](https://github.com/escoffier-labs/stationtrail) - Exports local agent session logs (Codex, Claude Code, OpenClaw, OpenCode, Hermes) to portable JSONL for MiseLedger.
-- 🌾 [sourceharvest](https://github.com/escoffier-labs/sourceharvest) - Exports non-harness sources like notes, chat exports, and issue exports into the same adapter contract.
+- 🎞️ [appreels](https://github.com/solomonneas/appreels) - Agent-neutral demo-video recorder for clean, repeatable product clips.
 
 **Security & Threat Intelligence**
 - 🛡️ [cyberbrief](https://github.com/solomonneas/cyberbrief) - AI threat intel briefings with BLUF reports, ATT&CK mapping, and IOC extraction.
