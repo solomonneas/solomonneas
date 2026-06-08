@@ -85,18 +85,6 @@ I'm a Network & Systems Engineer and teaching lab aid in Tampa, FL, working wher
 - 🎛️ [deckctl](https://github.com/solomonneas/deckctl) - Declarative driver for the Elgato Stream Deck with YAML config and OBS execution.
 - 🎥 [obsctl](https://github.com/solomonneas/obsctl) - kubectl-style multi-host wrapper for managing OBS Studio across machines from one CLI.
 
-**Currently Contributing To**
-- 🧃 [vincentkoc/tokenjuice](https://github.com/vincentkoc/tokenjuice) - Lean output compaction for terminal-heavy agent workflows.
-- 📝 [steipete/summarize](https://github.com/steipete/summarize) - Fast summaries from URLs, files, and media via CLI and browser sidebars.
-- 📬 [steipete/gogcli](https://github.com/steipete/gogcli) - Google Suite CLI for Gmail, Calendar, Drive, and Contacts.
-- 🦞 [openclaw/openclaw](https://github.com/openclaw/openclaw) - Agent harness and CLI that runs my entire multi-agent stack on bare metal.
-- 🦞 [openclaw/plugin-inspector](https://github.com/openclaw/plugin-inspector) - Offline compatibility inspector for mocking OpenClaw and testing plugins.
-- 🔌 [openclaw/acpx](https://github.com/openclaw/acpx) - Headless CLI client for stateful Agent Client Protocol (ACP) sessions.
-- 💬 [steipete/discrawl](https://github.com/steipete/discrawl) - CLI for Discord with a SQLite backend.
-- 🧰 [steipete/mcporter](https://github.com/steipete/mcporter) - Call MCP servers from TypeScript or package them as standalone CLIs.
-- 🎭 [microsoft/playwright](https://github.com/microsoft/playwright) - Cross-browser automation and testing framework.
-
-
 I'm always open to building, contributing, collaborating, and chatting. Feel free to [reach out](https://solomonneas.dev).
 
 ### Featured Writing
