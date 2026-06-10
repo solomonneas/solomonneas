@@ -49,7 +49,7 @@ I'm a Network & Systems Engineer and teaching lab aid in Tampa, FL, working wher
 
 **Security & Threat Intelligence**
 - 🛡️ [cyberbrief](https://github.com/solomonneas/cyberbrief) - AI threat intel briefings with BLUF reports, ATT&CK mapping, and IOC extraction.
-- 🔍 [bro-hunter](https://github.com/solomonneas/bro-hunter) - Threat hunting for Zeek and Suricata logs with beaconing detection and MITRE mapping.
+- 🔍 [vervet](https://github.com/solomonneas/vervet) - Network threat hunting for Zeek and Suricata logs with explainable per-host risk scoring and MITRE ATT&CK mapping.
 - 🔬 [intel-workbench](https://github.com/solomonneas/intel-workbench) - Threat intel analysis with ACH matrices, evidence weighting, and STIX export.
 - 📖 [hotwash](https://github.com/solomonneas/hotwash) - SOC playbook parser with mermaid diagram generation and Wazuh alert ingestion.
 - 🏗️ [soc-stack](https://github.com/solomonneas/soc-stack) - Full SOC architecture covering MCP servers, detection pipelines, and deployment playbooks.
