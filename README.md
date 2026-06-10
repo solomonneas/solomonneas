@@ -17,16 +17,23 @@ I'm a Network & Systems Engineer and teaching lab aid in Tampa, FL, working wher
 [Escoffier Labs](https://github.com/escoffier-labs) is my studio for harness-agnostic agent infrastructure, named for the chef who systematized the kitchen brigade. Tools that get your agents into _mise en place_ and keep them there.
 
 **Core**
-- 🚩 **[brigade](https://github.com/escoffier-labs/brigade)** - **the flagship.** Your agents run loops; Brigade keeps the receipts. Local operator layer for memory, tasks, tools, research, review, and release across every harness.
-- 🦞 [solos-cookbook](https://github.com/solomonneas/solos-cookbook) - The companion cookbook: opinionated, dogfooded guide to running a 24/7 multi-agent AI stack on bare metal.
+- 🚩 **[brigade](https://github.com/escoffier-labs/brigade)** - **the flagship.** Local operator layer for agent memory, tasks, tools, research, review, and release across every harness.
+- 🥘 [skillet](https://github.com/escoffier-labs/skillet) - Agent skills suite: repo audits, bug hunting, security sweeps, publish gates, releases, and memory handoffs.
+- 🦞 [solos-cookbook](https://github.com/escoffier-labs/solos-cookbook) - Opinionated, dogfooded guide to running a 24/7 multi-agent AI stack on bare metal.
 
 **Agent ops**
-- 🍪 [agentpantry](https://github.com/escoffier-labs/agentpantry) - Encrypted, transport-agnostic sync of browser sessions and secrets from your daily driver to the box your agents run on, so they wake up authenticated.
+- 🍪 [agentpantry](https://github.com/escoffier-labs/agentpantry) - Encrypted, transport-agnostic sync of browser sessions and secrets so agents wake up authenticated.
 - 🩺 [memory-doctor](https://github.com/escoffier-labs/memory-doctor) - Maintenance CLI for the Claude Code and OpenClaw memory systems: status, lint, ingest, compact.
 - 🧰 [bootstrap-doctor](https://github.com/escoffier-labs/bootstrap-doctor) - Audits and trims oversize OpenClaw prefix files into reference cards via heuristics and LLM judgment.
-- 🛂 [content-guard](https://github.com/escoffier-labs/content-guard) - Policy-driven content scanning and publish checks that catch secrets, hostnames, and IPs before they leave the machine.
+- 🛂 [content-guard](https://github.com/escoffier-labs/content-guard) - Policy-driven content scanning that catches secrets, hostnames, and IPs before they leave the machine.
 - 🔔 [agent-notify](https://github.com/escoffier-labs/agent-notify) - Privacy-first push notifications for AI coding agents to Discord, Telegram, and Signal with zero telemetry.
-- 🛎️ [cloche](https://github.com/escoffier-labs/cloche) - Agent-neutral desktop capture: polished shots with metadata and stable JSON, with an optional MCP server.
+- 🛎️ [cloche](https://github.com/escoffier-labs/cloche) - Agent-neutral desktop capture: polished shots with metadata and stable JSON, plus an optional MCP server.
+
+**Dev tools**
+- 🔍 [code-search-api](https://github.com/escoffier-labs/code-search-api) - Local semantic code search with Ollama embeddings, SQLite, hybrid search, and LLM summaries.
+- 🧩 [code-search-mcp](https://github.com/escoffier-labs/code-search-mcp) - Read-only MCP server and OpenClaw plugin that puts code-search-api in front of any agent.
+- 📊 [usage-tracker](https://github.com/escoffier-labs/usage-tracker) - Token usage and cost analytics for OpenClaw sessions across models.
+- 🎭 [mise-en-scene](https://github.com/escoffier-labs/mise-en-scene) - Turns source material into self-contained interactive HTML/SVG technical explainers.
 
 **Evidence stack**
 - 🧾 [miseledger](https://github.com/escoffier-labs/miseledger) - Turns scattered AI work history into a local, searchable evidence ledger: SQLite FTS5 search, Markdown export, and Brigade-ready evidence bundles.
@@ -36,10 +43,6 @@ I'm a Network & Systems Engineer and teaching lab aid in Tampa, FL, working wher
 ## Other projects I've built and maintain
 
 **OpenClaw & Dev Tools**
-- 🔍 [code-search-api](https://github.com/solomonneas/code-search-api) - Local semantic code search with Ollama embeddings, SQLite, hybrid search, and LLM summaries.
-- 🧩 [code-search-mcp](https://github.com/solomonneas/code-search-mcp) - Read-only MCP server and OpenClaw plugin that puts code-search-api in front of any agent.
-- 📡 [upstream-drift](https://github.com/solomonneas/upstream-drift) - Upstream drift watcher: LLM-summarized diffs of tracked repos with weekly Discord digests.
-- 📊 [usage-tracker](https://github.com/solomonneas/usage-tracker) - Token usage and cost analytics for OpenClaw sessions across models.
 - 📚 [prompt-library](https://github.com/solomonneas/prompt-library) - Dual-mode prompt management with browse/copy UI and a REST API for sub-agents.
 - 🖥️ [ops-deck-oss](https://github.com/solomonneas/ops-deck-oss) - Self-hosted operational dashboard for OpenClaw users: React UI plus a minimal FastAPI sidecar.
 - 🎞️ [appreels](https://github.com/solomonneas/appreels) - Agent-neutral demo-video recorder for clean, repeatable product clips.
@@ -70,7 +73,6 @@ I'm a Network & Systems Engineer and teaching lab aid in Tampa, FL, working wher
 - 🔭 [watchtower](https://github.com/solomonneas/watchtower) - NOC dashboard with interactive topology, L2/L3 views, and LibreNMS/Proxmox integration.
 - 🔌 [portgrid](https://github.com/solomonneas/portgrid) - Switch port visualization for LibreNMS with color-coded views and instant search.
 - 🔒 [proxguard](https://github.com/solomonneas/proxguard) - Proxmox security auditor with config parsers, CIS benchmarks, and remediation scripts.
-- 🧮 [config-diff-explainer](https://github.com/solomonneas/config-diff-explainer) - Offline CLI that turns before/after network device configs into operator-ready reports on what changed, what's risky, and how to roll back. 8 vendor parser paths.
 - 📶 [eero-cli](https://github.com/solomonneas/eero-cli) - CLI for the eero mesh API with SMS auth, filtered device listing, and bulk blocking.
 - 🐧 [samba-ad-migration](https://github.com/solomonneas/samba-ad-migration) - Windows AD to Samba file share migration scripts for Proxmox.
 
