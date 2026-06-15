@@ -42,11 +42,6 @@ I'm a Network & Systems Engineer and teaching lab aid in Tampa, FL, working wher
 
 ## Other projects I've built and maintain
 
-**OpenClaw & Dev Tools**
-- 📚 [prompt-library](https://github.com/solomonneas/prompt-library) - Dual-mode prompt management with browse/copy UI and a REST API for sub-agents.
-- 🖥️ [ops-deck-oss](https://github.com/solomonneas/ops-deck-oss) - Self-hosted operational dashboard for OpenClaw users: React UI plus a minimal FastAPI sidecar.
-- 🎞️ [appreels](https://github.com/solomonneas/appreels) - Agent-neutral demo-video recorder for clean, repeatable product clips.
-
 **Security & Threat Intelligence**
 - 🛡️ [cyberbrief](https://github.com/solomonneas/cyberbrief) - AI threat intel briefings with BLUF reports, ATT&CK mapping, and IOC extraction.
 - 🔍 [vervet](https://github.com/solomonneas/vervet) - Network threat hunting for Zeek and Suricata logs with explainable per-host risk scoring and MITRE ATT&CK mapping.
@@ -64,7 +59,6 @@ I'm a Network & Systems Engineer and teaching lab aid in Tampa, FL, working wher
 - 🦔 [suricata-mcp](https://github.com/solomonneas/suricata-mcp) - IDS/IPS workflows for managing rules, querying alerts, and analyzing traffic.
 - 🕸️ [maltego-mcp](https://github.com/solomonneas/maltego-mcp) - Maltego graph authoring and OSINT lookups for whois, DNS, ASN, and crt.sh.
 - ⚙️ [n8n-ops-mcp](https://github.com/solomonneas/n8n-ops-mcp) - Ops control for n8n workflows, validation, and execution lifecycle.
-- 📮 [postiz-mcp](https://github.com/solomonneas/postiz-mcp) - Postiz social scheduling control with full public-API coverage, env-gated writes, and a 30/hr rate-limit guard.
 - 🧱 [adguard-mcp](https://github.com/solomonneas/adguard-mcp) - AdGuard Home control with tools across read, safe-write, and destructive tiers.
 - 🖥️ [proxmox-mcp](https://github.com/solomonneas/proxmox-mcp) - Proxmox VE control with 12 tools for container/VM lifecycle, snapshots, and backups.
 - 📡 [librenms-mcp](https://github.com/solomonneas/librenms-mcp) - LibreNMS control with 10 tools for device, port, and alert reads plus alert acks.
@@ -73,19 +67,12 @@ I'm a Network & Systems Engineer and teaching lab aid in Tampa, FL, working wher
 - 🔭 [watchtower](https://github.com/solomonneas/watchtower) - NOC dashboard with interactive topology, L2/L3 views, and LibreNMS/Proxmox integration.
 - 🔌 [portgrid](https://github.com/solomonneas/portgrid) - Switch port visualization for LibreNMS with color-coded views and instant search.
 - 🔒 [proxguard](https://github.com/solomonneas/proxguard) - Proxmox security auditor with config parsers, CIS benchmarks, and remediation scripts.
-- 📶 [eero-cli](https://github.com/solomonneas/eero-cli) - CLI for the eero mesh API with SMS auth, filtered device listing, and bulk blocking.
 - 🐧 [samba-ad-migration](https://github.com/solomonneas/samba-ad-migration) - Windows AD to Samba file share migration scripts for Proxmox.
 
 **Media Automation**
 - 🎬 [jellyfin-mcp](https://github.com/solomonneas/jellyfin-mcp) - Control Jellyfin from LLMs with playback sessions, library scans, user admin, and 20 MCP tools.
 - 🖼️ [immich-mcp](https://github.com/solomonneas/immich-mcp) - Browse and search Immich photos, manage albums, recognize people, surface memories, and resolve duplicates.
 - 🎞️ [reelgrep](https://github.com/solomonneas/reelgrep) - Local video search with ffprobe metadata, Whisper transcription, and FTS5 subtitle search.
-- 🔍 [reelgrep-mcp](https://github.com/solomonneas/reelgrep-mcp) - MCP wrapper for reelgrep with citation-formatted timestamps from your local video library.
-- 🎚️ [media-cli](https://github.com/solomonneas/media-cli) - Single-file bash CLI for the self-hosted *arr media stack: Sonarr, Radarr, Prowlarr, qBittorrent, and more, locally or over SSH.
-
-**Streaming & OBS**
-- 🎛️ [deckctl](https://github.com/solomonneas/deckctl) - Declarative driver for the Elgato Stream Deck with YAML config and OBS execution.
-- 🎥 [obsctl](https://github.com/solomonneas/obsctl) - kubectl-style multi-host wrapper for managing OBS Studio across machines from one CLI.
 
 I'm always open to building, contributing, collaborating, and chatting. Feel free to [reach out](https://solomonneas.dev).
 
