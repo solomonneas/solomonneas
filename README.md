@@ -1,6 +1,6 @@
 ### Yellow 👋, I'm Solomon
 
-I'm a Network & Systems Engineer and teaching lab aid in Tampa, FL, working where cybersecurity, network observability, and AI infrastructure meet. I build SOC tooling, MCP servers, and multi-agent workflows that run on real production gear, not toy demos, and I write about it at [solomonneas.dev/blog](https://solomonneas.dev/blog).
+I'm an open-source software developer and Network & Systems Engineer in Tampa, FL, working where cybersecurity, network observability, and AI infrastructure meet. I build SOC tooling, MCP servers, and multi-agent workflows that run on real production gear, not toy demos, and I write about it at [solomonneas.dev/blog](https://solomonneas.dev/blog).
 
 - <img src="https://flagcdn.com/20x15/us.png" alt="US flag" width="20"> US based in Tampa, FL, near the beach.
 - 👨‍👧 Father, retired chef of 17 years, OSS contributor, and beach lover when I'm not on a screen.
@@ -81,7 +81,7 @@ I'm always open to building, contributing, collaborating, and chatting. Feel fre
 - 💰 [How I Migrated 6 Servers from VMware to Proxmox and Saved $343K](https://solomonneas.dev/blog/vmware-to-proxmox-migration)
 - 🖥️ [I Migrated Our Entire Infrastructure from Hyper-V to Proxmox](https://solomonneas.dev/blog/hyperv-to-proxmox-migration-guide)
 - 💿 [Replacing SCCM with FOG Project](https://solomonneas.dev/blog/replacing-sccm-with-fog-project)
-- 🛡️ [I'm a Lab Assistant. So I Built My Own SOC](https://solomonneas.dev/blog/building-open-source-soc)
+- 🛡️ [Building an Open-Source SOC](https://solomonneas.dev/blog/building-open-source-soc)
 - 🧩 [I Built 7 MCP Servers for Security Tools. The Protocol Was the Easy Part.](https://solomonneas.dev/blog/building-security-mcp-servers)
 - 📡 [A Fiber Cut at 2 PM Taught Me Why I Needed to Build Watchtower](https://solomonneas.dev/blog/building-watchtower)
 - 🎓 [3 Days, 18 Hours: What I Learned at NDG's Proxmox Workshop](https://solomonneas.dev/blog/ndg-proxmox-workshop)
