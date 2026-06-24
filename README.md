@@ -68,6 +68,7 @@ I'm an open-source software developer and Network & Systems Engineer in Tampa, F
 - 🔌 [portgrid](https://github.com/solomonneas/portgrid) - Switch port visualization for LibreNMS with color-coded views and search.
 - 🔒 [proxguard](https://github.com/solomonneas/proxguard) - Proxmox security auditor with CIS benchmarks and remediation scripts.
 - 🐧 [samba-ad-migration](https://github.com/solomonneas/samba-ad-migration) - Windows AD to Samba file share migration scripts for Proxmox.
+- 📶 [eero-cli](https://github.com/solomonneas/eero-cli) - CLI for the eero mesh API with non-interactive SMS auth and regex/MAC device filtering.
 
 **Media Automation**
 - 🎬 [jellyfin-mcp](https://github.com/solomonneas/jellyfin-mcp) - Control Jellyfin: playback sessions, library scans, and user admin.
