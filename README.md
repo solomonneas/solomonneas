@@ -62,6 +62,7 @@ I'm an open-source software developer and Network & Systems Engineer in Tampa, F
 - 🧱 [adguard-mcp](https://github.com/solomonneas/adguard-mcp) - AdGuard Home control across read, safe-write, and destructive tiers.
 - 🖥️ [proxmox-mcp](https://github.com/solomonneas/proxmox-mcp) - Proxmox VE control for container/VM lifecycle, snapshots, and backups.
 - 📡 [librenms-mcp](https://github.com/solomonneas/librenms-mcp) - LibreNMS control for device, port, and alert reads plus alert acks.
+- 📣 [postiz-mcp](https://github.com/solomonneas/postiz-mcp) - Postiz MCP server with full public-API coverage, env-gated writes, and a rate-limit guard.
 
 **Network & Infrastructure**
 - 🔭 [watchtower](https://github.com/solomonneas/watchtower) - NOC dashboard with interactive topology and LibreNMS/Proxmox integration.
@@ -69,11 +70,15 @@ I'm an open-source software developer and Network & Systems Engineer in Tampa, F
 - 🔒 [proxguard](https://github.com/solomonneas/proxguard) - Proxmox security auditor with CIS benchmarks and remediation scripts.
 - 🐧 [samba-ad-migration](https://github.com/solomonneas/samba-ad-migration) - Windows AD to Samba file share migration scripts for Proxmox.
 - 📶 [eero-cli](https://github.com/solomonneas/eero-cli) - CLI for the eero mesh API with non-interactive SMS auth and regex/MAC device filtering.
+- 📊 [ops-deck-oss](https://github.com/solomonneas/ops-deck-oss) - Self-hosted operational dashboard template for OpenClaw with a React UI and FastAPI sidecar.
 
 **Media Automation**
 - 🎬 [jellyfin-mcp](https://github.com/solomonneas/jellyfin-mcp) - Control Jellyfin: playback sessions, library scans, and user admin.
 - 🖼️ [immich-mcp](https://github.com/solomonneas/immich-mcp) - Browse and search Immich photos, manage albums, and recognize people.
 - 🎞️ [reelgrep](https://github.com/solomonneas/reelgrep) - Local video search with ffprobe metadata and Whisper transcription.
+- 🎥 [reelgrep-mcp](https://github.com/solomonneas/reelgrep-mcp) - MCP server for reelgrep - browse and search your local video library from any client.
+- 🎛️ [deckctl](https://github.com/solomonneas/deckctl) - Declarative Stream Deck driver with YAML config, hot reload, and OBS integration.
+- 📺 [obsctl](https://github.com/solomonneas/obsctl) - kubectl-style multi-host wrapper for managing OBS Studio over the LAN.
 
 I'm always open to building, contributing, collaborating, and chatting. Feel free to [reach out](https://solomonneas.dev).
 
