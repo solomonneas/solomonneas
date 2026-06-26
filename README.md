@@ -71,6 +71,7 @@ I'm an open-source software developer and Network & Systems Engineer in Tampa, F
 - 🐧 [samba-ad-migration](https://github.com/solomonneas/samba-ad-migration) - Windows AD to Samba file share migration scripts for Proxmox.
 - 📶 [eero-cli](https://github.com/solomonneas/eero-cli) - CLI for the eero mesh API with non-interactive SMS auth and regex/MAC device filtering.
 - 📊 [ops-deck-oss](https://github.com/solomonneas/ops-deck-oss) - Self-hosted operational dashboard template for OpenClaw with a React UI and FastAPI sidecar.
+- ✂️ [cutsheet](https://github.com/solomonneas/cutsheet) - Network change intelligence: watches device configs and tells you what changed and whether to worry.
 
 **Media Automation**
 - 🎬 [jellyfin-mcp](https://github.com/solomonneas/jellyfin-mcp) - Control Jellyfin: playback sessions, library scans, and user admin.
@@ -79,6 +80,17 @@ I'm an open-source software developer and Network & Systems Engineer in Tampa, F
 - 🎥 [reelgrep-mcp](https://github.com/solomonneas/reelgrep-mcp) - MCP server for reelgrep - browse and search your local video library from any client.
 - 🎛️ [deckctl](https://github.com/solomonneas/deckctl) - Declarative Stream Deck driver with YAML config, hot reload, and OBS integration.
 - 📺 [obsctl](https://github.com/solomonneas/obsctl) - kubectl-style multi-host wrapper for managing OBS Studio over the LAN.
+- 🍿 [media-cli](https://github.com/solomonneas/media-cli) - Single bash CLI for the *arr media stack (Sonarr/Radarr/Prowlarr/qBittorrent), local or over SSH.
+
+**Developer & AI Tools**
+- 🤖 [model-arena](https://github.com/solomonneas/model-arena) - Interactive LLM comparison: side-by-side testing, benchmark visualizations, and a real-time cost calculator.
+- 🧱 [public-artifact-builder](https://github.com/solomonneas/public-artifact-builder) - Turns a repo into privacy-safe public artifacts (case studies, posts, diagrams) with built-in secret scanning.
+- 📄 [document-action-tool](https://github.com/solomonneas/document-action-tool) - Local-first CLI that turns PDFs and letters into summaries, action checklists, and deadline calendars.
+
+**Education & Canvas**
+- 🎓 [canvas-cli](https://github.com/solomonneas/canvas-cli) - Read-only Canvas LMS CLI that needs no API token; logs in via your browser once.
+- 📬 [canvas-digest](https://github.com/solomonneas/canvas-digest) - Daily digest of your Canvas LMS: what's due, what changed, what was graded, and new announcements.
+- 🎯 [gradtrack](https://github.com/solomonneas/gradtrack) - Config-driven graduation-requirement and ePortfolio progress tracker with a single-pane status site.
 
 I'm always open to building, contributing, collaborating, and chatting. Feel free to [reach out](https://solomonneas.dev).
 
