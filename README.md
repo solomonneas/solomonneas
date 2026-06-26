@@ -86,6 +86,7 @@ I'm an open-source software developer and Network & Systems Engineer in Tampa, F
 - 🤖 [model-arena](https://github.com/solomonneas/model-arena) - Interactive LLM comparison: side-by-side testing, benchmark visualizations, and a real-time cost calculator.
 - 🧱 [public-artifact-builder](https://github.com/solomonneas/public-artifact-builder) - Turns a repo into privacy-safe public artifacts (case studies, posts, diagrams) with built-in secret scanning.
 - 📄 [document-action-tool](https://github.com/solomonneas/document-action-tool) - Local-first CLI that turns PDFs and letters into summaries, action checklists, and deadline calendars.
+- 🦞 [clawspace](https://github.com/solomonneas/clawspace) - Bootstraps a production-grade OpenClaw agent workspace (memory system, config, templates, MCP server) in minutes.
 
 **Education & Canvas**
 - 🎓 [canvas-cli](https://github.com/solomonneas/canvas-cli) - Read-only Canvas LMS CLI that needs no API token; logs in via your browser once.
