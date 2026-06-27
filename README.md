@@ -40,53 +40,59 @@ I'm an open-source software developer and Network & Systems Engineer in Tampa, F
 - 👣 [stationtrail](https://github.com/escoffier-labs/stationtrail) - Exports agent session logs to portable JSONL for MiseLedger.
 - 🌾 [sourceharvest](https://github.com/escoffier-labs/sourceharvest) - Exports notes, chat exports, and issue exports into the same contract.
 
+## 🦉 Lidless Labs
+
+[Lidless Labs](https://github.com/lidless-labs) is my open-source SOC, network, and homelab toolkit for MCP clients and AI-assisted operations. Constant vigilance: local-first tools shaped around real systems that have to be queried under pressure.
+
+**Security / SOC**
+- 🛡️ [wazuh-mcp](https://github.com/lidless-labs/wazuh-mcp) - Wazuh SIEM/XDR: alerts, agents, vulnerabilities, and rules.
+- 🔬 [misp-mcp](https://github.com/lidless-labs/misp-mcp) - MISP threat intel: IOC lookups, correlation, and exports.
+- 🦔 [suricata-mcp](https://github.com/lidless-labs/suricata-mcp) - Suricata IDS/IPS EVE JSON alert analysis and rule workflows.
+- 🐝 [thehive-mcp](https://github.com/lidless-labs/thehive-mcp) - TheHive incident response: cases, alerts, tasks, and observables.
+- 🧠 [cortex-mcp](https://github.com/lidless-labs/cortex-mcp) - Cortex analyzers and responders for observable analysis.
+- ⚔️ [mitre-mcp](https://github.com/lidless-labs/mitre-mcp) - MITRE ATT&CK mapping, group profiling, and detection-gap analysis.
+- 🔎 [zeek-mcp](https://github.com/lidless-labs/zeek-mcp) - Zeek + Suricata NSM log querying and correlation.
+- 📖 [hotwash](https://github.com/lidless-labs/hotwash) - SOC playbook parser with mermaid diagrams and Wazuh alert ingestion.
+- 🏗️ [soc-stack](https://github.com/lidless-labs/soc-stack) - Full open-source SOC architecture: MCP servers, detection pipelines, and playbooks.
+
+**Threat Intelligence & OSINT**
+- 🛡️ [cyberbrief](https://github.com/lidless-labs/cyberbrief) - AI threat-intel briefings with BLUF reports and ATT&CK mapping.
+- 🔬 [intel-workbench](https://github.com/lidless-labs/intel-workbench) - Structured analytic techniques: ACH matrices and STIX export.
+- 🕸️ [maltego-mcp](https://github.com/lidless-labs/maltego-mcp) - Maltego graph authoring and OSINT lookups for whois, DNS, and ASN.
+- 🐒 [vervet](https://github.com/lidless-labs/vervet) - Threat hunting for Zeek and Suricata logs with per-host risk scoring.
+
+**Network**
+- 📡 [librenms-mcp](https://github.com/lidless-labs/librenms-mcp) - LibreNMS devices, ports, alerts, and acknowledgements.
+- ⚙️ [n8n-ops-mcp](https://github.com/lidless-labs/n8n-ops-mcp) - n8n workflow inspection, validation, execution, and ops automation.
+- 🔭 [watchtower](https://github.com/lidless-labs/watchtower) - NOC dashboard with interactive topology and LibreNMS/Proxmox integration.
+- 🔌 [portgrid](https://github.com/lidless-labs/portgrid) - Switch-port visualization for LibreNMS with color-coded views and search.
+- ✂️ [cutsheet](https://github.com/lidless-labs/cutsheet) - Network change intelligence: watches device configs and tells you what changed.
+- 📶 [eero-cli](https://github.com/lidless-labs/eero-cli) - CLI for the eero mesh API with non-interactive auth and device filtering.
+
+**Homelab**
+- 🖥️ [proxmox-mcp](https://github.com/lidless-labs/proxmox-mcp) - Proxmox VE inventory and safe-write VM, container, and node operations.
+- 🧱 [adguard-mcp](https://github.com/lidless-labs/adguard-mcp) - AdGuard Home DNS filtering across read, safe-write, and destructive tiers.
+- 🖼️ [immich-mcp](https://github.com/lidless-labs/immich-mcp) - Immich photo library search, albums, people, and duplicate workflows.
+- 🎬 [jellyfin-mcp](https://github.com/lidless-labs/jellyfin-mcp) - Jellyfin playback sessions, library scans, and user admin.
+- 🔒 [proxguard](https://github.com/lidless-labs/proxguard) - Proxmox security auditor with CIS benchmarks and remediation scripts.
+- 🐧 [samba-ad-migration](https://github.com/lidless-labs/samba-ad-migration) - Windows AD to Samba file-share migration scripts for Proxmox.
+
 ## Other projects I've built and maintain
 
-**Security & Threat Intelligence**
-- 🛡️ [cyberbrief](https://github.com/solomonneas/cyberbrief) - AI threat intel briefings with BLUF reports and ATT&CK mapping.
-- 🔍 [vervet](https://github.com/solomonneas/vervet) - Threat hunting for Zeek and Suricata logs with per-host risk scoring.
-- 🔬 [intel-workbench](https://github.com/solomonneas/intel-workbench) - Threat intel analysis with ACH matrices and STIX export.
-- 📖 [hotwash](https://github.com/solomonneas/hotwash) - SOC playbook parser with mermaid diagrams and Wazuh alert ingestion.
-- 🏗️ [soc-stack](https://github.com/solomonneas/soc-stack) - Full SOC architecture: MCP servers, detection pipelines, and playbooks.
-
-**MCP Servers**
-- 🧠 [cortex-mcp](https://github.com/solomonneas/cortex-mcp) - Observable analysis for IOCs, reports, and response actions.
-- 🛡️ [wazuh-mcp](https://github.com/solomonneas/wazuh-mcp) - SIEM access for agents, alerts, rules, and decoders.
-- 🔬 [misp-mcp](https://github.com/solomonneas/misp-mcp) - Threat intel search, IOC correlation, and STIX/Suricata/CSV export.
-- 🐝 [thehive-mcp](https://github.com/solomonneas/thehive-mcp) - Incident response workflows for cases, alerts, tasks, and observables.
-- ⚔️ [mitre-mcp](https://github.com/solomonneas/mitre-mcp) - MITRE ATT&CK technique mapping and detection gap analysis.
-- 🔎 [zeek-mcp](https://github.com/solomonneas/zeek-mcp) - Network monitoring access for connection, DNS, HTTP, and SSL logs.
-- 🦔 [suricata-mcp](https://github.com/solomonneas/suricata-mcp) - IDS/IPS workflows for rules, alerts, and traffic analysis.
-- 🕸️ [maltego-mcp](https://github.com/solomonneas/maltego-mcp) - Maltego graph authoring and OSINT lookups for whois, DNS, and ASN.
-- ⚙️ [n8n-ops-mcp](https://github.com/solomonneas/n8n-ops-mcp) - Ops control for n8n workflows, validation, and execution lifecycle.
-- 🧱 [adguard-mcp](https://github.com/solomonneas/adguard-mcp) - AdGuard Home control across read, safe-write, and destructive tiers.
-- 🖥️ [proxmox-mcp](https://github.com/solomonneas/proxmox-mcp) - Proxmox VE control for container/VM lifecycle, snapshots, and backups.
-- 📡 [librenms-mcp](https://github.com/solomonneas/librenms-mcp) - LibreNMS control for device, port, and alert reads plus alert acks.
+**Developer & AI tools**
+- 🤖 [model-arena](https://github.com/solomonneas/model-arena) - Interactive LLM comparison: side-by-side testing, benchmark visualizations, and a real-time cost calculator.
+- 🧱 [public-artifact-builder](https://github.com/solomonneas/public-artifact-builder) - Turns a repo into privacy-safe public artifacts (case studies, posts, diagrams) with built-in secret scanning.
+- 📄 [document-action-tool](https://github.com/solomonneas/document-action-tool) - Local-first CLI that turns PDFs and letters into summaries, action checklists, and deadline calendars.
+- 🦞 [clawspace](https://github.com/solomonneas/clawspace) - Bootstraps a production-grade OpenClaw agent workspace (memory system, config, templates, MCP server) in minutes.
+- 📊 [ops-deck-oss](https://github.com/solomonneas/ops-deck-oss) - Self-hosted operational dashboard template for OpenClaw with a React UI and FastAPI sidecar.
 - 📣 [postiz-mcp](https://github.com/solomonneas/postiz-mcp) - Postiz MCP server with full public-API coverage, env-gated writes, and a rate-limit guard.
 
-**Network & Infrastructure**
-- 🔭 [watchtower](https://github.com/solomonneas/watchtower) - NOC dashboard with interactive topology and LibreNMS/Proxmox integration.
-- 🔌 [portgrid](https://github.com/solomonneas/portgrid) - Switch port visualization for LibreNMS with color-coded views and search.
-- 🔒 [proxguard](https://github.com/solomonneas/proxguard) - Proxmox security auditor with CIS benchmarks and remediation scripts.
-- 🐧 [samba-ad-migration](https://github.com/solomonneas/samba-ad-migration) - Windows AD to Samba file share migration scripts for Proxmox.
-- 📶 [eero-cli](https://github.com/solomonneas/eero-cli) - CLI for the eero mesh API with non-interactive SMS auth and regex/MAC device filtering.
-- 📊 [ops-deck-oss](https://github.com/solomonneas/ops-deck-oss) - Self-hosted operational dashboard template for OpenClaw with a React UI and FastAPI sidecar.
-- ✂️ [cutsheet](https://github.com/solomonneas/cutsheet) - Network change intelligence: watches device configs and tells you what changed and whether to worry.
-
-**Media Automation**
-- 🎬 [jellyfin-mcp](https://github.com/solomonneas/jellyfin-mcp) - Control Jellyfin: playback sessions, library scans, and user admin.
-- 🖼️ [immich-mcp](https://github.com/solomonneas/immich-mcp) - Browse and search Immich photos, manage albums, and recognize people.
+**Media & desktop**
 - 🎞️ [reelgrep](https://github.com/solomonneas/reelgrep) - Local video search with ffprobe metadata and Whisper transcription.
 - 🎥 [reelgrep-mcp](https://github.com/solomonneas/reelgrep-mcp) - MCP server for reelgrep - browse and search your local video library from any client.
 - 🎛️ [deckctl](https://github.com/solomonneas/deckctl) - Declarative Stream Deck driver with YAML config, hot reload, and OBS integration.
 - 📺 [obsctl](https://github.com/solomonneas/obsctl) - kubectl-style multi-host wrapper for managing OBS Studio over the LAN.
 - 🍿 [media-cli](https://github.com/solomonneas/media-cli) - Single bash CLI for the *arr media stack (Sonarr/Radarr/Prowlarr/qBittorrent), local or over SSH.
-
-**Developer & AI Tools**
-- 🤖 [model-arena](https://github.com/solomonneas/model-arena) - Interactive LLM comparison: side-by-side testing, benchmark visualizations, and a real-time cost calculator.
-- 🧱 [public-artifact-builder](https://github.com/solomonneas/public-artifact-builder) - Turns a repo into privacy-safe public artifacts (case studies, posts, diagrams) with built-in secret scanning.
-- 📄 [document-action-tool](https://github.com/solomonneas/document-action-tool) - Local-first CLI that turns PDFs and letters into summaries, action checklists, and deadline calendars.
-- 🦞 [clawspace](https://github.com/solomonneas/clawspace) - Bootstraps a production-grade OpenClaw agent workspace (memory system, config, templates, MCP server) in minutes.
 
 **Education & Canvas**
 - 🎓 [canvas-cli](https://github.com/solomonneas/canvas-cli) - Read-only Canvas LMS CLI that needs no API token; logs in via your browser once.
