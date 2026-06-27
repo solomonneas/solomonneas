@@ -40,11 +40,12 @@ Open-source SOC, network, and homelab tooling for MCP clients and AI-assisted op
 A few tools under my personal account:
 
 - **[postiz-mcp](https://github.com/solomonneas/postiz-mcp)** - Postiz MCP server with full public-API coverage, env-gated writes, and a rate-limit guard.
-- **[rapid7-mcp](https://github.com/solomonneas/rapid7-mcp)** - Rapid7 InsightIDR SIEM: log search, investigations, alerts, and threat intel.
 - **[reelgrep](https://github.com/solomonneas/reelgrep)** - local video search with ffprobe metadata and Whisper transcription.
 - **[deckctl](https://github.com/solomonneas/deckctl)** - declarative Stream Deck driver with YAML config, hot reload, and OBS integration.
 - **[obsctl](https://github.com/solomonneas/obsctl)** - kubectl-style multi-host wrapper for managing OBS Studio over the LAN.
 - **[canvas-cli](https://github.com/solomonneas/canvas-cli)** - read-only Canvas LMS CLI that needs no API token.
+- **[canvas-digest](https://github.com/solomonneas/canvas-digest)** - daily digest of your Canvas LMS: what's due, what changed, what was graded, and new announcements.
+- **[gradtrack](https://github.com/solomonneas/gradtrack)** - config-driven graduation and ePortfolio progress tracker with a single-pane status site.
 
 → More at [github.com/solomonneas](https://github.com/solomonneas?tab=repositories)
 
