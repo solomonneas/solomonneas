@@ -18,6 +18,7 @@ Harness-agnostic agent infrastructure, named for the chef who systematized the k
 - **[miseledger](https://github.com/escoffier-labs/miseledger)** - searchable evidence ledger for AI work history: local SQLite FTS, Brigade-ready evidence bundles.
 - **[graphtrail](https://github.com/escoffier-labs/graphtrail)** - local code graph for agents: callers, callees, and impact analysis over CLI and read-only MCP.
 - **[cloche](https://github.com/escoffier-labs/cloche)** - agent-neutral desktop capture with metadata, stable JSON, and optional MCP.
+- **[mise-en-scene](https://github.com/escoffier-labs/mise-en-scene)** - turns source material into interactive HTML/SVG technical explainers.
 - **[solos-cookbook](https://github.com/escoffier-labs/solos-cookbook)** - how one engineer runs a 24/7 multi-agent AI stack on bare metal.
 
 → Full catalog at [github.com/escoffier-labs](https://github.com/escoffier-labs)
