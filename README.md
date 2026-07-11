@@ -27,12 +27,13 @@ Harness-agnostic agent infrastructure, named for the chef who systematized the k
 
 Open-source SOC, network, and homelab tooling for MCP clients and AI-assisted operations. Constant vigilance: local-first tools shaped around real systems queried under pressure.
 
-- **[cutsheet](https://github.com/lidless-labs/cutsheet)** - the flagship: network change intelligence that watches device configs and tells you what changed.
-- **[soc-stack](https://github.com/lidless-labs/soc-stack)** - full open-source SOC architecture: MCP servers, detection pipelines, and playbooks.
+- **[maltego-mcp](https://github.com/lidless-labs/maltego-mcp)** - Maltego graph authoring and OSINT lookups: whois, DNS, ASN, and crt.sh.
 - **[wazuh-mcp](https://github.com/lidless-labs/wazuh-mcp)** - Wazuh SIEM/XDR: alerts, agents, vulnerabilities, and rules.
 - **[mitre-mcp](https://github.com/lidless-labs/mitre-mcp)** - MITRE ATT&CK mapping, group profiling, and detection-gap analysis.
-- **[maltego-mcp](https://github.com/lidless-labs/maltego-mcp)** - Maltego graph authoring and OSINT lookups: whois, DNS, ASN, and crt.sh.
+- **[soc-stack](https://github.com/lidless-labs/soc-stack)** - full open-source SOC architecture: MCP servers, detection pipelines, and playbooks.
+- **[cutsheet](https://github.com/lidless-labs/cutsheet)** - network change intelligence that watches device configs and tells you what changed.
 - **[watchtower](https://github.com/lidless-labs/watchtower)** - NOC dashboard with interactive topology and LibreNMS/Proxmox integration.
+- **[immichctrl](https://github.com/lidless-labs/immichctrl)** - operator CLI and MCP adapter for Immich: photo search, curation, and duplicate audits.
 
 → Full catalog at [github.com/lidless-labs](https://github.com/lidless-labs)
 
