@@ -15,12 +15,12 @@ Harness-agnostic agent infrastructure, named for the chef who systematized the k
 
 - **[brigade](https://github.com/escoffier-labs/brigade)** - the flagship: local operator layer for agent memory, tools, and release, merged into each tool's native config with a review gate.
 - **[skillet](https://github.com/escoffier-labs/skillet)** - agent skills suite: repo audits, bug hunts, security sweeps, and releases.
+- **[miseledger](https://github.com/escoffier-labs/miseledger)** - searchable evidence ledger for AI work history: local SQLite FTS, Brigade-ready evidence bundles.
+- **[graphtrail](https://github.com/escoffier-labs/graphtrail)** - local code graph for agents: callers, callees, and impact analysis over CLI and read-only MCP.
 - **[cloche](https://github.com/escoffier-labs/cloche)** - agent-neutral desktop capture with metadata, stable JSON, and optional MCP.
-- **[mise-en-scene](https://github.com/escoffier-labs/mise-en-scene)** - turns source material into interactive HTML/SVG technical explainers.
-- **[code-search-api](https://github.com/escoffier-labs/code-search-api)** - local semantic code search with Ollama embeddings and hybrid search.
 - **[solos-cookbook](https://github.com/escoffier-labs/solos-cookbook)** - how one engineer runs a 24/7 multi-agent AI stack on bare metal.
 
-→ Full catalog: **19 tools** at [github.com/escoffier-labs](https://github.com/escoffier-labs)
+→ Full catalog at [github.com/escoffier-labs](https://github.com/escoffier-labs)
 
 ## 🦉 Lidless Labs
 
@@ -30,10 +30,10 @@ Open-source SOC, network, and homelab tooling for MCP clients and AI-assisted op
 - **[soc-stack](https://github.com/lidless-labs/soc-stack)** - full open-source SOC architecture: MCP servers, detection pipelines, and playbooks.
 - **[wazuh-mcp](https://github.com/lidless-labs/wazuh-mcp)** - Wazuh SIEM/XDR: alerts, agents, vulnerabilities, and rules.
 - **[mitre-mcp](https://github.com/lidless-labs/mitre-mcp)** - MITRE ATT&CK mapping, group profiling, and detection-gap analysis.
+- **[maltego-mcp](https://github.com/lidless-labs/maltego-mcp)** - Maltego graph authoring and OSINT lookups: whois, DNS, ASN, and crt.sh.
 - **[watchtower](https://github.com/lidless-labs/watchtower)** - NOC dashboard with interactive topology and LibreNMS/Proxmox integration.
-- **[proxmox-mcp](https://github.com/lidless-labs/proxmox-mcp)** - Proxmox VE inventory and safe-write VM, container, and node operations.
 
-→ Full catalog: **25 tools** at [github.com/lidless-labs](https://github.com/lidless-labs)
+→ Full catalog at [github.com/lidless-labs](https://github.com/lidless-labs)
 
 ## Also
 
