@@ -11,6 +11,7 @@ Father · M.S. Cybersecurity Intelligence & Information Security, USF · [Writin
 ### Agent infrastructure
 
 - **[Brigade](https://github.com/escoffier-labs/brigade)** keeps agent work portable across coding tools. It syncs one MCP catalog into each tool's native config, carries memory between sessions, and records command results as file receipts.
+- **[MiseLedger](https://github.com/escoffier-labs/miseledger)** turns agent sessions, chat exports, git history, and local notes into a searchable SQLite archive, then exports provenance-linked evidence bundles to Brigade. The v0.5.0 release keeps the archive local and requires no network service.
 - **[GraphTrail](https://github.com/escoffier-labs/graphtrail)** answers callers, callees, and impact questions from a local code graph exposed through a Rust CLI and read-only MCP server.
 - **[Cloche](https://github.com/escoffier-labs/cloche)** captures desktop windows for hotkeys, scripts, and coding agents, returning a framed image plus stable JSON metadata.
 
