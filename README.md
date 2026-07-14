@@ -2,6 +2,8 @@
 
 For the past five years, I've worked in infrastructure and security, including networks, Proxmox clusters, and security systems in Tampa. I first got into technical work earlier in life. I build open-source tools for the systems I operate: SOC tooling, agent infrastructure, and network operations.
 
+I also do **AI consulting** through [S Cubed Systems LLC](https://scubedsystems.com): AI agent setup, security hardening, and small-business websites, fixed-price.
+
 I spent 17 years in professional kitchens before retiring from that trade. It gave [Escoffier Labs](https://github.com/escoffier-labs) its name.
 
 Father · M.S. Cybersecurity Intelligence & Information Security, USF · [Writing](https://solomonneas.dev/blog) · [Email](mailto:me@solomonneas.dev) · [LinkedIn](https://www.linkedin.com/in/solomon-neas/)
